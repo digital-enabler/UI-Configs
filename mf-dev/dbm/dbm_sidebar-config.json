@@ -1,0 +1,23 @@
+{
+  "mf": "Sidebar",
+  "api": "http://localhost:8085/api/v1/databases/",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "jsonTools": "https://storage.digital-enabler.eng.it/demo/tools.json",
+  "links": [
+    {
+      "title": "labels.databases",
+      "icon": "mdi-database",
+      "link": "/"
+    }
+  ],
+  "favorites": {
+      "enabled": false,
+      "uri": ""
+  },
+  "keycloak": {
+	  "enabled": true,
+	  "url": "https://idm.dev-digital-enabler.eng.it/auth",
+	  "clientId": "dbm-frontend-app",
+	  "redirect": "http://localhost:9000"
+  }
+}
