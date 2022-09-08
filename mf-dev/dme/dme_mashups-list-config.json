@@ -1,4 +1,4 @@
 {
    "mf": "Mashups List",
-   "api": "//localhost:8083/api"
+   "api": "https://dme-api.dev-digital-enabler.eng.it/api"
 }
