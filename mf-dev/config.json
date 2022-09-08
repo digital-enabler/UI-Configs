@@ -26,16 +26,16 @@
          "flowsList": "/dme/dme_flows-list-config.json"
       },
       "dbm": {
-         "auth": "/dbm/auth-config.json",
-         "sidebar": "/dbm/sidebar-config.json",
-         "databaseList": "/dbm/database-list-config.json"
+         "auth": "/dbm/dbm_auth-config.json",
+         "sidebar": "/dbm/dbm_sidebar-config.json",
+         "databaseList": "/dbm/dbm_database-list-config.json"
       },
       "console": {
-         "auth": "/console/auth-config.json",
-         "sidebar": "/console/sidebar-config.json",
-         "eventHandler": "/console/event-handler-config.json",
-         "consoleHome": "/console/console-home-config.json",
-         "services": "/console/services-config.json"
+         "auth": "/console/console_auth-config.json",
+         "sidebar": "/console/console_sidebar-config.json",
+         "eventHandler": "/console/console_event-handler-config.json",
+         "consoleHome": "/console/console_home-config.json",
+         "services": "/console/console_services-config.json"
       }
    }
 }
