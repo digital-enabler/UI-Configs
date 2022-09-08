@@ -14,16 +14,16 @@
          "footer": "/common/footer-config.json"
       },
       "dme": {
-         "auth": "/dme/auth-config.json",
-         "eventHandler": "/dme/event-handler-config.json",
-         "sidebar": "/dme/sidebar-config.json",
-         "mashupsList": "/dme/mashups-list-config.json",
-         "editor": "/dme/editor-config.json",
-         "editorAppbar": "/dme/editor-appbar-config.json",
-         "shareForm": "/dme/share-form-config.json",
-         "datasourcesList": "/dme/datasources-list-config.json",
-         "datasourceDetails": "/dme/datasource-details-config.json",
-         "flowsList": "/dme/flows-list-config.json"
+         "auth": "/dme/dme_auth-config.json",
+         "eventHandler": "/dme/dme_event-handler-config.json",
+         "sidebar": "/dme/dme_sidebar-config.json",
+         "mashupsList": "/dme/dme_mashups-list-config.json",
+         "editor": "/dme/dme_editor-config.json",
+         "editorAppbar": "/dme/dme_editor-appbar-config.json",
+         "shareForm": "/dme/dme_share-form-config.json",
+         "datasourcesList": "/dme/dme_datasources-list-config.json",
+         "datasourceDetails": "/dme/dme_datasource-details-config.json",
+         "flowsList": "/dme/dme_flows-list-config.json"
       },
       "dbm": {
          "auth": "/dbm/auth-config.json",
