@@ -11,7 +11,7 @@
    },
    "configs": {
       "common": {
-         "footer": "/common/footer-config.json"
+         "footer": "/common/common_footer-config.json"
       },
       "dme": {
          "auth": "/dme/dme_auth-config.json",
