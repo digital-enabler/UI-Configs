@@ -1,0 +1,23 @@
+{
+   "mf":"All Services",
+   "api":"https://dme-api.dev-digital-enabler.eng.it/api",
+   "dashboardManager":"https://docs.digital-enabler.eng.it/",
+   "ruleManager":"https://docs.digital-enabler.eng.it/",
+   "dataMashup":"https://docs.digital-enabler.eng.it/",
+   "workflowManager":"https://docs.digital-enabler.eng.it/",
+   "datasourceDiscoveryEngine":"https://docs.digital-enabler.eng.it/",
+   "deviceManager":"https://docs.digital-enabler.eng.it/",
+   "cloudDev":"https://docs.digital-enabler.eng.it/",
+   "dataWorkspace":"https://docs.digital-enabler.eng.it/",
+   "tenantManager":"https://docs.digital-enabler.eng.it/",
+   "identityManager":"https://docs.digital-enabler.eng.it/",
+   "privacyManager":"https://docs.digital-enabler.eng.it/",
+   "viewer":"https://docs.digital-enabler.eng.it/",
+   "aiStudio":"https://docs.digital-enabler.eng.it/",
+   "apiGateway":"https://docs.digital-enabler.eng.it/",
+   "registerDevice":"https://docs.digital-enabler.eng.it",
+   "createMashup":"https://mashupsui.dev.dev-digital-enabler.eng.it/",
+   "defineWorkflow":"https://docs.digital-enabler.eng.it",
+   "writeFunction":"https://docs.digital-enabler.eng.it",
+   "createDashboard":"https://docs.digital-enabler.eng.it"
+}
