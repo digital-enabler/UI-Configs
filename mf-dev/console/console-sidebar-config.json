@@ -1,0 +1,37 @@
+{
+  "mf": "Sidebar",
+  "api": "https://dme-api.dev-digital-enabler.eng.it/api",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "jsonTools": "https://storage.digital-enabler.eng.it/demo/tools.json",
+  "links": [
+    {
+      "title": "labels.home",
+      "icon": "mdi-home",
+        "link": "/"
+    },
+    {
+      "title": "labels.all-services",
+      "icon": "mdi-view-day-outline",
+      "link": "/services"
+    },
+    {
+      "title": "labels.docs",
+      "icon": "mdi-text-box-search",
+      "link": "https://docs.digital-enabler.eng.it/"
+    },
+    {
+      "title": "labels.help-support",
+      "icon": "mdi-help-circle",
+      "link": "https://docs.digital-enabler.eng.it/"
+    }
+  ],
+  "favorites": {
+    "enabled": true,
+    "uri": ""
+  },
+  "keycloak": {
+    "url" : "",
+    "clientId": "",
+	"enabled": false
+  }
+}

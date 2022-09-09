@@ -1,0 +1,30 @@
+{
+   "mf": "Sidebar",
+   "api": "https://dme-api.dev-digital-enabler.eng.it/api",
+   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+   "jsonTools": "https://storage.digital-enabler.eng.it/demo/tools.json",
+   "links": [
+      {
+         "title": "labels.mashups",
+         "icon": "mdi-file-tree",
+         "link": "/mashups"
+      },
+      {
+         "title": "labels.datasources",
+         "icon": "mdi-toolbox",
+         "link": "/datasources"
+      },
+      {
+         "title": "labels.flows",
+         "icon": "mdi-transit-connection-horizontal",
+         "link": "/flows"
+      }
+   ],
+   "favorites": {
+      "enabled": false,
+      "uri": ""
+   },
+   "keycloak": {
+     "enabled": false
+   }
+}
