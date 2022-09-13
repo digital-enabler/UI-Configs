@@ -19,5 +19,6 @@
 	  "url": "https://idm.dev-digital-enabler.eng.it/auth",
 	  "clientId": "dbm-frontend-app",
 	  "redirect": "http://localhost:9000"
-  }
+  },
+  "logo": "https://demo.digital-enabler.eng.it/suite/static/imgs/de_logo.svg"
 }

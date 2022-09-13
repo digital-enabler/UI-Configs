@@ -33,5 +33,6 @@
     "url" : "",
     "clientId": "",
 	"enabled": false
-  }
+  },
+  "logo": "https://demo.digital-enabler.eng.it/suite/static/imgs/de_logo.svg"
 }
