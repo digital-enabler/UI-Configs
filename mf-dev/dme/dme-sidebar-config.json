@@ -27,6 +27,6 @@
    "keycloak": {
      "enabled": false
    },
-   "logo": "/de-logo.svg",
-   "mini-logo": "/de-mini.svg"
+   "logo": "/DigitalEnabler.svg",
+   "miniLogo": "/mini-logo.svg"
 }
