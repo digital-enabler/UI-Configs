@@ -20,6 +20,6 @@
 	  "clientId": "dbm-frontend-app",
 	  "redirect": "http://localhost:9000"
   },
-  "logo": "/DigitalEnabler.svg",
+  "logo": "/Databases.svg.svg",
   "miniLogo": "/mini-logo.svg"
 }
