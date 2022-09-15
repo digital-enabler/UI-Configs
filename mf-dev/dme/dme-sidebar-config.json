@@ -26,5 +26,7 @@
    },
    "keycloak": {
      "enabled": false
-   }
+   },
+   "logo": "/DataMashupEditor.svg",
+   "miniLogo": "/mini-logo.svg"
 }

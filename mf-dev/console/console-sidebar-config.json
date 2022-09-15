@@ -33,5 +33,7 @@
     "url" : "",
     "clientId": "",
 	"enabled": false
-  }
+  },
+  "logo": "/DigitalEnabler.svg",
+  "miniLogo": "/mini-logo.svg"
 }
