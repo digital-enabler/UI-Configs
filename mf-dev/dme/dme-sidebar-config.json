@@ -27,6 +27,6 @@
    "keycloak": {
      "enabled": false
    },
-   "logo": "/DigitalEnabler.svg",
+   "logo": "/DataMashupEditor.svg",
    "miniLogo": "/mini-logo.svg"
 }
