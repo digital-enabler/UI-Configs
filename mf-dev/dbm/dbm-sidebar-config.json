@@ -11,15 +11,15 @@
     }
   ],
   "favorites": {
-      "enabled": false,
-      "uri": ""
+    "enabled": false,
+    "uri": ""
   },
   "keycloak": {
-	  "enabled": true,
-	  "url": "https://idm.dev-digital-enabler.eng.it/auth",
-	  "clientId": "dbm-frontend-app",
-	  "redirect": "http://localhost:9000"
+    "enabled": true,
+    "url": "https://idm.dev-digital-enabler.eng.it/auth",
+    "clientId": "dbm-frontend-app",
+    "redirect": "http://localhost:9000"
   },
   "logo": "/Databases.svg",
-  "miniLogo": "/mini-logo.svg"
+  "miniLogo": "/de-mini.svg"
 }
