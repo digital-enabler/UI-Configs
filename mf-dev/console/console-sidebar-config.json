@@ -7,7 +7,7 @@
     {
       "title": "labels.home",
       "icon": "mdi-home",
-        "link": "/"
+      "link": "/"
     },
     {
       "title": "labels.all-services",
@@ -30,10 +30,10 @@
     "uri": ""
   },
   "keycloak": {
-    "url" : "",
+    "url": "",
     "clientId": "",
-	"enabled": false
+    "enabled": false
   },
   "logo": "/DigitalEnabler.svg",
-  "miniLogo": "/mini-logo.svg"
+  "miniLogo": "/de-mini.svg"
 }
