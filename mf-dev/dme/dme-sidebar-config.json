@@ -11,7 +11,7 @@
       },
       {
          "title": "labels.datasources",
-         "icon": "mdi-toolbox",
+         "icon": "mdi-database",
          "link": "/datasources"
       },
       {

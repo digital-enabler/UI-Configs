@@ -23,7 +23,8 @@
          "shareForm": "/dme/dme-share-form-config.json",
          "datasourcesList": "/dme/dme-datasources-list-config.json",
          "datasourceDetails": "/dme/dme-datasource-details-config.json",
-         "flowsList": "/dme/dme-flows-list-config.json"
+         "flowsList": "/dme/dme-flows-list-config.json",
+         "flowEditor": "/dme/dme-flow-editor-config.json"
       },
       "dbm": {
          "auth": "/dbm/dbm-auth-config.json",
