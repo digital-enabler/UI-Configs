@@ -15,6 +15,11 @@
       "link": "/services"
     },
     {
+      "title": "labels.contexts",
+      "icon": "mdi-file-sign",
+      "link": "/contexts"
+    },
+    {
       "title": "labels.docs",
       "icon": "mdi-text-box-search",
       "link": "https://docs.digital-enabler.eng.it/"

@@ -1,0 +1,22 @@
+{
+  "mf": "Contexts",
+  "api": "https://api-tenants.dev.dev-digital-enabler.eng.it/api",
+  "filePath": ".jpg",
+  "allCategories": [
+    "Mobility",
+    "Waste",
+    "Illumination",
+    "Tourism",
+    "Water",
+    "KPI",
+    "Issues",
+    "Taxes",
+    "Control Room",
+    "Manufacturing",
+    "Energy",
+    "Industry",
+    "Building",
+    "Animals",
+    "Harvest"
+  ]
+}
