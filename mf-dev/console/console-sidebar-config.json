@@ -7,7 +7,7 @@
     {
       "title": "labels.home",
       "icon": "mdi-home",
-      "link": "/"
+      "link": "/home"
     },
     {
       "title": "labels.all-services",
