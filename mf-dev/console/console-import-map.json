@@ -8,7 +8,7 @@
 	"@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@0.0.2/app.js",
     "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@0.0.23/app.js",
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@0.0.9/app.js",
-    "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@0.0.11/app.js",
+    "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@0.0.12/app.js",
 	"@digital-enabler/demf-console-home": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-home@0.0.9/app.js",
 	"@digital-enabler/demf-console-all-services": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-all-services@0.0.8/app.js",
 	"@digital-enabler/demf-console-contexts": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-contexts@0.0.3/app.js",
