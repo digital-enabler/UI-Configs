@@ -2,8 +2,8 @@
     "mf": "Auth",
     "api": "https://dme-api.dev-digital-enabler.eng.it/api",
     "keycloak": {
-      "url": "",
-      "clientId": "",
-      "enabled": false
+      "url": "https://idm.dev-digital-enabler.eng.it/auth",
+      "clientId": "dev",
+      "enabled": "enabled"
     }
 }
