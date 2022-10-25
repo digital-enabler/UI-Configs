@@ -3,7 +3,8 @@
     "api": "https://dme-api.dev-digital-enabler.eng.it/api",
     "keycloak": {
       "url": "https://idm.dev-digital-enabler.eng.it/auth",
-      "clientId": "dev",
-      "enabled": "enabled"
+      "clientId": "console-app",
+      "enabled": "enabled",
+      "redirect": "https://console.dev.dev-digital-enabler.eng.it/home"
     }
 }
