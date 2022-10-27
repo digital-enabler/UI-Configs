@@ -13,7 +13,7 @@
     "@digital-enabler/mashups-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-editor@0.0.6/app.js",
     "@digital-enabler/mashups-editor-appbar": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-editor-appbar@0.0.11/app.js",
     "@digital-enabler/share-form": "https://cdn.jsdelivr.net/npm/@digital-enabler/share-form@0.0.3/app.js",
-    "@digital-enabler/dme-datasources-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-datasources-list@0.0.6/app.js",
+    "@digital-enabler/dme-datasources-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-datasources-list@0.0.7/app.js",
     "@digital-enabler/dme-datasource-details": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-datasource-details@0.0.4/app.js",
     "@digital-enabler/dme-flows-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flows-list@0.0.4/app.js",
     "@digital-enabler/dme-flow-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flow-editor@0.0.1/app.js",
