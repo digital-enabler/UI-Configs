@@ -3,15 +3,15 @@
    "api":"https://dme-api.dev-digital-enabler.eng.it/api",
    "tools":{
       "dashboardManager":"",
-      "ruleManager":"https://docs.digital-enabler.eng.it/",
       "dataMashup":"https://docs.digital-enabler.eng.it/",
-      "workflowManager":"https://docs.digital-enabler.eng.it/",
-      "datasourceDiscoveryEngine":"https://docs.digital-enabler.eng.it/",
+      "dataFlow":"https://docs.digital-enabler.eng.it/",
       "deviceManager":"https://docs.digital-enabler.eng.it/",
       "cloudDev":"https://docs.digital-enabler.eng.it/",
-      "dataWorkspace":"https://docs.digital-enabler.eng.it/",
-      "tenantManager":"https://docs.digital-enabler.eng.it/",
-      "identityManager":"https://docs.digital-enabler.eng.it/"
+      "identityManager":"https://docs.digital-enabler.eng.it/",
+      "apiGateway": "https://docs.digital-enabler.eng.it/",
+      "aiStudio": "https://docs.digital-enabler.eng.it/",
+      "storage": "",
+      "databaseManager": ""
    },
    "welcome":{
       "digitalEnabler":"https://docs.digital-enabler.eng.it/#what-is-it",
