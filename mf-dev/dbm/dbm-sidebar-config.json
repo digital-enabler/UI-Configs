@@ -21,5 +21,6 @@
     "redirect": "http://localhost:9000"
   },
   "logo": "/Databases.svg",
-  "miniLogo": "/de-mini.svg"
+  "miniLogo": "/de-mini.svg",
+  "showServicesMenu": true
 }
