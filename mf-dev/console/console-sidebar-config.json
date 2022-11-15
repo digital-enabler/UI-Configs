@@ -40,5 +40,6 @@
     "enabled": false
   },
   "logo": "/DigitalEnabler.svg",
-  "miniLogo": "/de-mini.svg"
+  "miniLogo": "/de-mini.svg",
+  "showServicesMenu": false
 }

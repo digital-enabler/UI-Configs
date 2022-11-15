@@ -28,5 +28,6 @@
       "enabled": false
    },
    "logo": "/DataMashupEditor.svg",
-   "miniLogo": "/de-mini.svg"
+   "miniLogo": "/de-mini.svg",
+   "showServicesMenu": true
 }
