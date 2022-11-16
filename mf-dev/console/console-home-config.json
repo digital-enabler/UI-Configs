@@ -22,15 +22,5 @@
       "howToCreateMashup":"https://docs.digital-enabler.eng.it/data-mashup#create-a-mashup",
       "howToRegisterDevice":"https://docs.digital-enabler.eng.it/device-config-and-modeling",
       "howToDefineWorkflow":"https://docs.digital-enabler.eng.it/workflow-management"
-   },
-   "create":{
-      "registerDevice":"https://docs.digital-enabler.eng.it",
-      "createMashup":"https://mashupsui.dev.dev-digital-enabler.eng.it/",
-      "defineWorkflow":"https://docs.digital-enabler.eng.it",
-      "writeFunction":"https://docs.digital-enabler.eng.it",
-      "createDashboard":"https://docs.digital-enabler.eng.it",
-      "createDatabase": "",
-      "storeFile": "",
-      "defineExperiment": ""
    }
 }

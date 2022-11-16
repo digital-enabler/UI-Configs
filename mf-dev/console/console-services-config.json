@@ -10,13 +10,5 @@
    "databaseManager": "https://docs.digital-enabler.eng.it/",
    "storage": "https://docs.digital-enabler.eng.it/",
    "aiStudio": "https://docs.digital-enabler.eng.it/",
-   "apiGateway": "https://docs.digital-enabler.eng.it/",
-   "registerDevice": "https://docs.digital-enabler.eng.it",
-   "createMashup": "https://mashupsui.dev.dev-digital-enabler.eng.it/",
-   "defineWorkflow": "https://docs.digital-enabler.eng.it",
-   "writeFunction": "https://docs.digital-enabler.eng.it",
-   "createDashboard": "https://docs.digital-enabler.eng.it",
-   "createDatabase": "https://docs.digital-enabler.eng.it/",
-   "storeFile": "https://docs.digital-enabler.eng.it/",
-   "defineExperiment": "https://docs.digital-enabler.eng.it/"
+   "apiGateway": "https://docs.digital-enabler.eng.it/"
 }
