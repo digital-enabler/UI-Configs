@@ -1,6 +1,6 @@
 {
   "mf": "Sidebar",
-  "api": "http://localhost:8085/api/v1/databases/",
+  "api": "https://api-database.dev.dev-digital-enabler.eng.it/api/v1/databases/",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://storage.digital-enabler.eng.it/demo/tools.json",
   "links": [
@@ -18,7 +18,7 @@
     "enabled": true,
     "url": "https://idm.dev-digital-enabler.eng.it/auth",
     "clientId": "dbm-frontend-app",
-    "redirect": "http://localhost:9000"
+    "redirect": "https://database.dev.dev-digital-enabler.eng.it"
   },
   "logo": "/Databases.svg",
   "miniLogo": "/de-mini.svg",
