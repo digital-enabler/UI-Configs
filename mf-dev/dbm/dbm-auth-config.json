@@ -1,10 +1,10 @@
 {
     "mf": "Auth",
-    "api": "https://api-database.dev.dev-digital-enabler.eng.it/api",
+    "api": "https://api-database.dev.dev-digital-enabler.eng.it",
 	"keycloak": {
 		"enabled": true,
 		"url": "https://idm.dev-digital-enabler.eng.it/auth",
 		"clientId": "dbm-frontend-app",
-		"redirect": "http://localhost:9000"
+		"redirect": "https://database.dev.dev-digital-enabler.eng.it"
 	}
 }
