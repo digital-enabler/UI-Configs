@@ -1,4 +1,6 @@
 {
    "mf": "Database List",
-   "api": "http://localhost:8085/api/v1/databases/"
+   "api": "https://api-database.dev.dev-digital-enabler.eng.it/api/v1/",
+   "mapMarkerScale": 0.4,
+   "mapMarkerSource": "https://assets.website-files.com/6262b3a41e132da7361cba0c/6262b3a41e132d62241cbc22_icons8-location-100.png"
 }
