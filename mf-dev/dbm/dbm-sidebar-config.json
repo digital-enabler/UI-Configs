@@ -20,7 +20,7 @@
     "clientId": "dbm-frontend-app",
     "redirect": "https://database.dev.dev-digital-enabler.eng.it"
   },
-  "logo": "/Databases.svg",
+  "logo": "/DatabasesManager.svg",
   "miniLogo": "/de-mini.svg",
   "showServicesMenu": true
 }
