@@ -29,7 +29,8 @@
       "dbm": {
          "auth": "/dbm/dbm-auth-config.json",
          "sidebar": "/dbm/dbm-sidebar-config.json",
-         "databaseList": "/dbm/dbm-database-list-config.json"
+         "databaseList": "/dbm/dbm-database-list-config.json",
+         "databaseDetail": "/dbm/database-detail-config.json"
       },
       "console": {
          "auth": "/console/console-auth-config.json",
