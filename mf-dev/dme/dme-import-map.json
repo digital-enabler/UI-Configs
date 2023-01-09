@@ -7,7 +7,7 @@
     "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@2.6.5/dist/vuetify.min.js",
     "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@0.0.24/app.js",
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@0.0.9/app.js",
-    "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@0.0.12/app.js",
+    "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@0.0.13/app.js",
     "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@0.0.2/app.js",
     "@digital-enabler/mashups-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-list@0.0.9/app.js",
     "@digital-enabler/mashups-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-editor@0.0.10/app.js",
@@ -16,7 +16,7 @@
     "@digital-enabler/dme-datasources-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-datasources-list@0.0.10/app.js",
     "@digital-enabler/dme-datasource-details": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-datasource-details@0.0.9/app.js",
     "@digital-enabler/dme-flows-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flows-list@0.0.5/app.js",
-    "@digital-enabler/dme-flow-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flow-editor@0.0.4/app.js",
+    "@digital-enabler/dme-flow-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flow-editor@0.0.5/app.js",
     "@digital-enabler/dme-gui": "https://mashupsui.dev.dev-digital-enabler.eng.it/demf-dme-gui.js"
   }
 }
