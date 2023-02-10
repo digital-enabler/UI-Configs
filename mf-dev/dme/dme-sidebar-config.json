@@ -29,5 +29,5 @@
    },
    "logo": "/DataMashupEditor.svg",
    "miniLogo": "/de-mini.svg",
-   "showServicesMenu": true
+   "showServicesMenu": false
 }
