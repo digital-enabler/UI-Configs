@@ -1,0 +1,9 @@
+{
+   "mf": "Auth",
+   "api": "https://dme-api.digital-enabler.eng.it/api",
+   "keycloak": {
+      "url": "https://idm.digital-enabler.eng.it/auth",
+      "clientId": "rdlab",
+      "enabled": false
+   }
+}
