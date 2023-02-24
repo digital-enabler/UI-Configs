@@ -1,0 +1,30 @@
+{
+   "realm": "RDLAB",
+   "palette": {
+      "primary": "#003050",
+      "secondary": "#C8004B",
+      "accent": "#A0B1BE",
+      "error": "#F44336",
+      "info": "#3d8ecc",
+      "success": "#4CAF50",
+      "warning": "#ea6d07"
+   },
+   "configs": {
+      "common": {
+         "footer": "/common/common-footer-config.json"
+      },
+      "dme": {
+         "auth": "/dme/dme-auth-config.json",
+         "eventHandler": "/dme/dme-event-handler-config.json",
+         "sidebar": "/dme/dme-sidebar-config.json",
+         "mashupsList": "/dme/dme-mashups-list-config.json",
+         "editor": "/dme/dme-editor-config.json",
+         "editorAppbar": "/dme/dme-editor-appbar-config.json",
+         "shareForm": "/dme/dme-share-form-config.json",
+         "datasourcesList": "/dme/dme-datasources-list-config.json",
+         "datasourceDetails": "/dme/dme-datasource-details-config.json",
+         "flowsList": "/dme/dme-flows-list-config.json",
+         "flowEditor": "/dme/dme-flow-editor-config.json"
+      }
+   }
+}
