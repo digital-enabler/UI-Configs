@@ -14,7 +14,7 @@
       "link": "",
       "prefix": "database.",
       "path": "",
-      "active": true,
+      "active": false,
       "category": "data_processing"
    },
    {
@@ -32,7 +32,7 @@
       "link": "",
       "prefix": "airflow.",
       "path": "",
-      "active": true,
+      "active": false,
       "category": "data_management"
    },
    {
@@ -46,7 +46,7 @@
    },
    {
       "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
-      "name": "Storage",
+      "name": "Data Lake",
       "link": "",
       "prefix": "storage-console.",
       "path": "",
@@ -59,7 +59,7 @@
       "link": "",
       "prefix": "devices.",
       "path": "",
-      "active": true,
+      "active": false,
       "category": "internet_things"
    },
    {
