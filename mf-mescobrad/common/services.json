@@ -68,7 +68,7 @@
       "link": "",
       "prefix": "cloudev.",
       "path": "",
-      "active": true,
+      "active": false,
       "category": "tools_developers"
    },
    {
@@ -86,7 +86,7 @@
       "link": "",
       "prefix": "api.",
       "path": "",
-      "active": true,
+      "active": false,
       "category": "tools_developers"
    }
 ]
