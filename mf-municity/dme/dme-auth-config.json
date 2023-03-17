@@ -1,0 +1,9 @@
+{
+   "mf": "Auth",
+   "api": "https://dme-api.test.municity.municipia.eng.it/api",
+   "keycloak": {
+      "url": "https://idm.municity.municipia.eng.it/auth",
+      "clientId": "rdlab",
+      "enabled": false
+   }
+}
