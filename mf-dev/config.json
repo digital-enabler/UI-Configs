@@ -40,6 +40,12 @@
          "consoleHome": "/console/console-home-config.json",
          "services": "/console/console-services-config.json",
          "consoleAppbar": "/console/console-appbar-config.json"
+      },
+      "rm": {
+         "auth": "/rm/rm-auth-config.json",
+         "eventHandler": "/rm/rm-event-handler-config.json",
+         "sidebar": "/rm/rm-sidebar-config.json",
+         "rulesList": "/rm/rm-rules-list-config.json"
       }
    }
 }
