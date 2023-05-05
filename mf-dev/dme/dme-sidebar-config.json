@@ -25,7 +25,7 @@
       "uri": ""
    },
    "keycloak": {
-      "enabled": true
+      "enabled": false
    },
    "logo": "/DataMashupEditor.svg",
    "miniLogo": "/de-mini.svg",
