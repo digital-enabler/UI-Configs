@@ -1,4 +1,5 @@
 {
-    "mf": "Datasources List",
-    "api": "https://dme-api.test.municity.municipia.eng.it/api"
+  "mf": "Datasources List",
+  "api": "https://dme-api.test.municity.municipia.eng.it/api",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
