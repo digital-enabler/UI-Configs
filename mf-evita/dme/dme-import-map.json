@@ -1,0 +1,22 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
+    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+    "vue": "https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js",
+    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@3.5.3/dist/vue-router.min.js",
+    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@2.6.5/dist/vuetify.min.js",
+    "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@0.0.27/app.js",
+    "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@0.0.9/app.js",
+    "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@0.0.13/app.js",
+    "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@0.0.2/app.js",
+    "@digital-enabler/mashups-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-list@0.0.21/app.js",
+    "@digital-enabler/mashups-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-editor@0.0.13/app.js",
+    "@digital-enabler/mashups-editor-appbar": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-editor-appbar@0.0.26/app.js",
+    "@digital-enabler/share-form": "https://cdn.jsdelivr.net/npm/@digital-enabler/share-form@0.0.10/app.js",
+    "@digital-enabler/dme-datasources-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-datasources-list@0.0.15/app.js",
+    "@digital-enabler/dme-datasource-details": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-datasource-details@0.0.11/app.js",
+    "@digital-enabler/dme-flows-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flows-list@0.0.9/app.js",
+    "@digital-enabler/dme-flow-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flow-editor@0.0.28/app.js",
+    "@digital-enabler/dme-gui": "https://mashups.evita.digital-enabler.eng.it/demf-dme-gui.js"
+  }
+}
