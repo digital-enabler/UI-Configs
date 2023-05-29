@@ -1,4 +1,5 @@
 {
-   "mf": "Rules List",
-   "api": "https://f87d8c7c-3048-465e-a9be-8131e2a875d8.mock.pstmn.io/api/v1"
+  "mf": "Rules List",
+  "api": "https://f87d8c7c-3048-465e-a9be-8131e2a875d8.mock.pstmn.io/api/v1",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
