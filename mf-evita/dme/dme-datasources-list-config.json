@@ -1,4 +1,5 @@
 {
     "mf": "Datasources List",
-    "api": "https://dme-api.digital-enabler.eng.it/api"
+    "api": "https://dme-api.digital-enabler.eng.it/api",
+    "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
