@@ -1,5 +1,5 @@
 {
   "mf": "Rule Editor",
-  "api": "//localhost:8085/api/v1",
+  "api": "https://derm-api.dev-digital-enabler.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
