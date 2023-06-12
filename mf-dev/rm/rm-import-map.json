@@ -8,7 +8,7 @@
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@1.0.1/app.js",
     "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@1.2.1/app.js",
     "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@1.0.0/app.js",
-    "@digital-enabler/demf-rules-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rules-list@0.0.2/app.js",
+    "@digital-enabler/demf-rules-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rules-list@0.0.3/app.js",
     "@digital-enabler/rm-gui": "https://rules.dev.dev-digital-enabler.eng.it/demf-rm-gui.js"
   }
 }
