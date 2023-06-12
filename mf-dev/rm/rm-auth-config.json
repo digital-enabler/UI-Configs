@@ -3,7 +3,7 @@
   "api": "https://derm-api.dev-digital-enabler.eng.it/api/v1",
   "keycloak": {
     "url": "https://idm.dev-digital-enabler.eng.it/auth",
-    "clientId": "rm-app-public",
+    "clientId": "rule-app",
     "enabled": true
   }
 }
