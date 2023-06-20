@@ -16,7 +16,7 @@
     "@digital-enabler/dme-datasources-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-datasources-list@1.1.0/app.js",
     "@digital-enabler/dme-datasource-details": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-datasource-details@1.1.1/app.js",
     "@digital-enabler/dme-flows-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flows-list@1.1.1/app.js",
-    "@digital-enabler/dme-flow-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flow-editor@1.6.3/app.js",
+    "@digital-enabler/dme-flow-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flow-editor@1.7.0/app.js",
     "@digital-enabler/dme-gui": "https://mashupsui.dev.dev-digital-enabler.eng.it/demf-dme-gui.js"
   }
 }
