@@ -24,7 +24,9 @@
       "datasourcesList": "/dme/dme-datasources-list-config.json",
       "datasourceDetails": "/dme/dme-datasource-details-config.json",
       "flowsList": "/dme/dme-flows-list-config.json",
-      "flowEditor": "/dme/dme-flow-editor-config.json"
+      "flowEditor": "/dme/dme-flow-editor-config.json",
+      "customOperators": "/dme/dme-custom-operators-config.json",
+      "customOperatorDetails": "/dme/dme-custom-operator-details-config.json"
     },
     "dbm": {
       "auth": "/dbm/dbm-auth-config.json",
