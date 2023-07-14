@@ -18,6 +18,11 @@
          "title": "labels.flows",
          "icon": "mdi-transit-connection-horizontal",
          "link": "/flows"
+      },
+      {
+         "title": "Custom Operators",
+         "icon": "mdi-apps",
+         "link": "/custom-operators"
       }
    ],
    "favorites": {
