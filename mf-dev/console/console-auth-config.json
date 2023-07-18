@@ -1,10 +1,4 @@
 {
     "mf": "Auth",
-    "api": "https://dme-api.dev-digital-enabler.eng.it/api",
-    "keycloak": {
-      "url": "https://idm.dev-digital-enabler.eng.it/auth",
-      "clientId": "console-app",
-      "enabled": "true",
-      "redirect": "https://console.dev.dev-digital-enabler.eng.it/home"
-    }
+    "api": "https://dme-api.dev-digital-enabler.eng.it/api"
 }
