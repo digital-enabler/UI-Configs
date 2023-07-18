@@ -2,18 +2,17 @@
   "imports": {
     "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
     "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
-    "vue": "https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js",
-    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@3.5.3/dist/vue-router.min.js",
-    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@2.6.5/dist/vuetify.min.js",
-    "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@0.0.2/app.js",
-    "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@1.0.4/app.js",
-    "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@0.0.9/app.js",
-    "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@0.0.13/app.js",
-    "@digital-enabler/demf-console-home": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-home@0.0.19/app.js",
-    "@digital-enabler/demf-console-all-services": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-all-services@0.0.14/app.js",
-    "@digital-enabler/demf-console-contexts": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-contexts@0.0.3/app.js",
-    "@digital-enabler/demf-console-appbar": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-appbar@0.0.2/app.js",
+    "vue": "https://cdn.jsdelivr.net/npm/vue@3.2.0/dist/vue.global.min.js",
+    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@4.2.2/dist/vue-router.global.min.js",
+    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@3.3.3/dist/vuetify.min.js",
+    "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@1.0.0/app.js",
+    "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@2.0.1/app.js",
+    "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.1/app.js",
+    "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@2.0.0/app.js",
+    "@digital-enabler/demf-console-home": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-home@1.0.0/app.js",
+    "@digital-enabler/demf-console-all-services": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-all-services@1.0.0/app.js",
+    "@digital-enabler/demf-console-contexts": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-contexts@1.0.0/app.js",
+    "@digital-enabler/demf-console-appbar": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-appbar@1.0.0/app.js",
     "@digital-enabler/console-gui": "https://console.dev.dev-digital-enabler.eng.it/demf-console-gui.js"
   }
 }
-
