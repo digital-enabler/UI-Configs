@@ -1,4 +1,4 @@
 {
     "mf": "Auth",
-    "api": "https://dme-api.dev-digital-enabler.eng.it/api"
+    "api": "https://console-api.dev.dev-digital-enabler.eng.it/api/v1"
 }

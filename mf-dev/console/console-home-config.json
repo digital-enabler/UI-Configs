@@ -1,6 +1,6 @@
 {
    "mf":"Console Home",
-   "api":"https://dme-api.dev-digital-enabler.eng.it/api",
+   "api":"https://console-api.dev.dev-digital-enabler.eng.it/api/v1",
    "tools":{
       "dashboardManager":"https://docs.digital-enabler.eng.it/",
       "dataMashup":"https://docs.digital-enabler.eng.it/",

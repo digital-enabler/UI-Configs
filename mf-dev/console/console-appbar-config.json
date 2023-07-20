@@ -1,6 +1,6 @@
 {
   "mf": "Console Appbar",
-  "api": "https://dme-api.dev-digital-enabler.eng.it/api",
+  "api": "https://console-api.dev.dev-digital-enabler.eng.it/api/v1",
   "create": {
     "registerDevice": "https://docs.digital-enabler.eng.it",
     "createMashup": "https://mashupsui.dev.dev-digital-enabler.eng.it/",
