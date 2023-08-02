@@ -10,7 +10,7 @@
     "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@1.0.0/app.js",
     "@digital-enabler/demf-rules-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rules-list@0.0.7/app.js",
     "@digital-enabler/demf-rule-editor-control-panel": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-control-panel@0.0.3/app.js",
-    "@digital-enabler/demf-rule-editor-assets": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-assets@0.0.4/app.js",
+    "@digital-enabler/demf-rule-editor-assets": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-assets@0.0.5/app.js",
     "@digital-enabler/demf-rule-editor-conditions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-conditions@0.0.5/app.js",
     "@digital-enabler/demf-rule-editor-actions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-actions@0.0.3/app.js",
     "@digital-enabler/demf-rule-editor-summary": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-summary@0.0.3/app.js",
