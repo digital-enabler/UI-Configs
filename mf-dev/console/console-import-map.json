@@ -11,7 +11,7 @@
     "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@2.0.1/app.js",
     "@digital-enabler/demf-console-home": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-home@1.0.4/app.js",
     "@digital-enabler/demf-console-all-services": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-all-services@1.0.4/app.js",
-    "@digital-enabler/demf-console-contexts": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-contexts@1.0.4/app.js",
+    "@digital-enabler/demf-console-contexts": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-contexts@1.0.5/app.js",
     "@digital-enabler/demf-console-appbar": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-appbar@1.0.4/app.js",
     "@digital-enabler/console-gui": "https://console.dev.dev-digital-enabler.eng.it/demf-console-gui.js"
   }
