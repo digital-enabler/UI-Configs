@@ -1,24 +1,6 @@
 [
    {
-      "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
-      "name": "Dashboard Manager",
-      "link": "",
-      "prefix": "dashboards.",
-      "path": "/",
-      "active": false,
-      "category": "data_visualization"
-   },
-   {
-      "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
-      "name": "Database Manager",
-      "link": "",
-      "prefix": "database.",
-      "path": "",
-      "active": false,
-      "category": "data_processing"
-   },
-   {
-      "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img": "//focchi.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name": "Data Mashup",
       "link": "",
       "prefix": "mashups.",
@@ -27,16 +9,7 @@
       "category": "data_processing"
    },
    {
-      "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
-      "name": "Dataflow",
-      "link": "",
-      "prefix": "airflow.",
-      "path": "",
-      "active": false,
-      "category": "data_management"
-   },
-   {
-      "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img": "//focchi.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name": "Identity Manager",
       "link": "",
       "prefix": "idm.",
@@ -45,16 +18,7 @@
       "category": "data_management"
    },
    {
-      "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
-      "name": "Data Lake",
-      "link": "",
-      "prefix": "storage-console.",
-      "path": "",
-      "active": true,
-      "category": "data_management"
-   },
-   {
-      "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img": "//focchi.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name": "Device Manager",
       "link": "",
       "prefix": "devices.",
@@ -63,7 +27,7 @@
       "category": "internet_things"
    },
    {
-      "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img": "//focchi.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name": "ClouDev",
       "link": "",
       "prefix": "cloudev.",
@@ -72,16 +36,7 @@
       "category": "tools_developers"
    },
    {
-      "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
-      "name": "AI Studio",
-      "link": "",
-      "prefix": ".",
-      "path": "",
-      "active": false,
-      "category": "tools_developers"
-   },
-   {
-      "img": "//mescobrad.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img": "//focchi.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name": "APIs",
       "link": "",
       "prefix": "api.",
