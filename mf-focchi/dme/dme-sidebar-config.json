@@ -2,7 +2,7 @@
    "mf": "Sidebar",
    "api": "https://dme-api.digital-enabler.eng.it/api",
    "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
-   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-mescobrad/common/services.json",
+   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-focchi/common/services.json",
    "links": [
       {
          "title": "labels.mashups",

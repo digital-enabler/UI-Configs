@@ -3,7 +3,7 @@
    "api": "https://dme-api.digital-enabler.eng.it/api",
    "keycloak": {
       "url": "https://idm.digital-enabler.eng.it/auth",
-      "clientId": "focchi",
+      "clientId": "mescobrad",
       "enabled": false
    }
 }
