@@ -1,0 +1,29 @@
+[
+   {
+      "img":"//polis.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Data Mashup",
+      "link":"",
+      "prefix":"mashups.",
+      "path":"",
+      "active":true,
+      "category":"data_processing"
+   },
+   {
+      "img":"//digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Identity Manager",
+      "link":"",
+      "prefix":"idm.",
+      "path":"/auth/realms/[tenant]/account",
+      "active":true,
+      "category":"data_management"
+   },
+   {
+      "img":"//polis.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Device Manager",
+      "link":"",
+      "prefix":"devices.",
+      "path":"",
+      "active":true,
+      "category":"internet_things"
+   }
+]
