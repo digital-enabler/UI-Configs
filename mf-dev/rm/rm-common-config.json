@@ -10,6 +10,11 @@
       "type": "flow",
       "name": "Mashup Flow",
       "icon": "mdi-file-tree"
+    },
+    {
+      "type": "ngsi-entity",
+      "name": "NGSI Entity",
+      "icon": "mdi-vector-circle"
     }
   ],
   "actions": [
