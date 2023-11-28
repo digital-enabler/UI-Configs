@@ -2,7 +2,7 @@
    "mf":"Auth",
    "api":"https://dme-api.digital-enabler.eng.it/api",
    "keycloak":{
-      "url":"https://idm.dev-digital-enabler.eng.it/auth",
+      "url":"https://idm.digital-enabler.eng.it/auth",
       "clientId":"dme-v2-app",
       "enabled":false
    }

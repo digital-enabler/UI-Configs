@@ -1,6 +1,6 @@
 [
    {
-      "img":"//polis.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"Data Mashup",
       "link":"",
       "prefix":"mashups.",
@@ -9,7 +9,7 @@
       "category":"data_processing"
    },
    {
-      "img":"//digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"Identity Manager",
       "link":"",
       "prefix":"idm.",
@@ -18,7 +18,7 @@
       "category":"data_management"
    },
    {
-      "img":"//polis.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"Device Manager",
       "link":"",
       "prefix":"devices.",

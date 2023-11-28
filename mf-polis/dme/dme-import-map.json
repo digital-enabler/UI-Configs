@@ -19,6 +19,6 @@
     "@digital-enabler/dme-flow-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flow-editor@1.8.4/app.js",
     "@digital-enabler/demf-custom-operators": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-custom-operators@0.1.0/app.js",
     "@digital-enabler/demf-custom-operator-details": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-custom-operator-details@0.0.4/app.js",
-    "@digital-enabler/dme-gui": "https://mashupsui.dev.dev-digital-enabler.eng.it/demf-dme-gui.js"
+    "@digital-enabler/dme-gui": "https://mashupsui.polis.digital-enabler.eng.it/demf-dme-gui.js"
   }
 }
