@@ -12,8 +12,8 @@
       "icon": "mdi-file-tree"
     },
     {
-      "type": "ngsi-entity",
-      "name": "NGSI Entity",
+      "type": "ngsi-ld",
+      "name": "NGSI ENTITY",
       "icon": "mdi-vector-circle"
     }
   ],
