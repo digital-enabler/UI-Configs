@@ -1,5 +1,5 @@
 {
    "mf": "Datasource Details",
-   "api": "https://dme-api.dev-digital-enabler.eng.it/api",
+   "api": "https://dme-api.dev-digital-enabler.eng.it/api/v2",
    "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
