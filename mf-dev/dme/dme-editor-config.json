@@ -1,4 +1,4 @@
 {
    "mf": "Mashup Editor",
-   "api": "https://dme-api.dev-digital-enabler.eng.it/api"
+   "api": "https://dme-api.dev-digital-enabler.eng.it/api/v2"
 }
