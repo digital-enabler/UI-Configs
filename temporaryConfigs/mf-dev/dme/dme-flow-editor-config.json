@@ -1,0 +1,5 @@
+{
+    "mf": "Flow Editor",
+    "api": "https://dme-api.dev-digital-enabler.eng.it/api/v3",
+    "triggerProxyUrlLayout": "[protocol_current_url]//dme-proxy.[Tenant][domain_current_url]/mashups/[id_flow]"
+}
