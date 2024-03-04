@@ -1,0 +1,55 @@
+{
+  "realm": "Dev",
+  "palette": {
+    "primary": "#003050",
+    "secondary": "#C8004B",
+    "accent": "#A0B1BE",
+    "error": "#F44336",
+    "info": "#3d8ecc",
+    "success": "#4CAF50",
+    "warning": "#ea6d07"
+  },
+  "configs": {
+    "common": {
+      "footer": "/common/common-footer-config.json"
+    },
+    "dme": {
+      "auth": "/dme/dme-auth-config.json",
+      "eventHandler": "/dme/dme-event-handler-config.json",
+      "sidebar": "/dme/dme-sidebar-config.json",
+      "mashupsList": "/dme/dme-mashups-list-config.json",
+      "editor": "/dme/dme-editor-config.json",
+      "editorAppbar": "/dme/dme-editor-appbar-config.json",
+      "shareForm": "/dme/dme-share-form-config.json",
+      "datasourcesList": "/dme/dme-datasources-list-config.json",
+      "datasourceDetails": "/dme/dme-datasource-details-config.json",
+      "flowsList": "/dme/dme-flows-list-config.json",
+      "flowEditor": "/dme/dme-flow-editor-config.json",
+      "customOperators": "/dme/dme-custom-operators-config.json",
+      "customOperatorDetails": "/dme/dme-custom-operator-details-config.json"
+    },
+    "dbm": {
+      "auth": "/dbm/dbm-auth-config.json",
+      "sidebar": "/dbm/dbm-sidebar-config.json",
+      "databaseList": "/dbm/dbm-database-list-config.json",
+      "databaseDetail": "/dbm/dbm-database-detail-config.json"
+    },
+    "console": {
+      "auth": "/console/console-auth-config.json",
+      "sidebar": "/console/console-sidebar-config.json",
+      "contexts": "/console/console-contexts-config.json",
+      "eventHandler": "/console/console-event-handler-config.json",
+      "consoleHome": "/console/console-home-config.json",
+      "services": "/console/console-services-config.json",
+      "consoleAppbar": "/console/console-appbar-config.json"
+    },
+    "rm": {
+      "ruleManager": "/rm/rm-common-config.json",
+      "auth": "/rm/rm-auth-config.json",
+      "eventHandler": "/rm/rm-event-handler-config.json",
+      "sidebar": "/rm/rm-sidebar-config.json",
+      "rulesList": "/rm/rm-rules-list-config.json",
+      "ruleEditor": "/rm/rm-rule-editor-config.json"
+    }
+  }
+}
