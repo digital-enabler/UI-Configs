@@ -1,0 +1,23 @@
+{
+  "mf": "Sidebar",
+  "api": "https://dme-api.dev-digital-enabler.eng.it/api",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-dev/common/services.json",
+  "links": [
+    {
+      "title": "labels.kpis",
+      "icon": "mdi-gauge",
+      "link": "/kpis"
+    }
+  ],
+  "favorites": {
+    "enabled": false,
+    "uri": ""
+  },
+  "keycloak": {
+    "enabled": false
+  },
+  "logo": "/DataMashupEditor.svg",
+  "miniLogo": "/de-mini.svg",
+  "showServicesMenu": false
+}
