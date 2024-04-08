@@ -1,0 +1,15 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
+    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+    "vue": "https://cdn.jsdelivr.net/npm/vue@3.4/dist/vue.global.min.js",
+    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@4.2.5/dist/vue-router.global.min.js",
+    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@3.5/dist/vuetify.min.js",
+    "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@2.0.9/app.js",
+    "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.3/app.js",
+    "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@2.0.3/app.js",
+    "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@2.0.2/app.js",
+    "@digital-enabler/demf-kpis-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-demf-kpis-list@0.0.1/app.js",
+    "@digital-enabler/kpim-gui": "https://mashupsui.dev.dev-digital-enabler.eng.it/demf-kpim-gui.js"
+  }
+}
