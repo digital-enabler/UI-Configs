@@ -50,6 +50,12 @@
       "sidebar": "/rm/rm-sidebar-config.json",
       "rulesList": "/rm/rm-rules-list-config.json",
       "ruleEditor": "/rm/rm-rule-editor-config.json"
+    },
+    "kpim": {
+      "auth": "/kpim/kpim-auth-config.json",
+      "eventHandler": "/kpim/kpim-event-handler-config.json",
+      "sidebar": "/kpim/kpim-sidebar-config.json",
+      "kpisList": "/kpim/kpim-kpis-list-config.json"
     }
   }
 }
