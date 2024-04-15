@@ -10,7 +10,7 @@
     "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@2.0.9/app.js",
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.3/app.js",
     "@digital-enabler/mashups-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-list@2.0.6/app.js",
-    "@digital-enabler/mashups-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-editor@3.0.7/app.js",
+    "@digital-enabler/mashups-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-editor@3.0.8/app.js",
     "@digital-enabler/mashups-editor-appbar": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-editor-appbar@2.1.3/app.js",
     "@digital-enabler/share-form": "https://cdn.jsdelivr.net/npm/@digital-enabler/share-form@1.1.0/app.js",
     "@digital-enabler/dme-datasources-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-datasources-list@2.0.4/app.js",
