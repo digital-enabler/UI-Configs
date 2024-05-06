@@ -1,0 +1,29 @@
+[
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Data Mashup",
+      "link":"",
+      "prefix":"mashups.",
+      "path":"",
+      "active":true,
+      "category":"data_processing"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Identity Manager",
+      "link":"",
+      "prefix":"idm.",
+      "path":"/auth/realms/[tenant]/account",
+      "active":true,
+      "category":"data_management"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Storage",
+      "link":"",
+      "prefix":"storage-console.",
+      "path":"",
+      "active":true,
+      "category":"data_management"
+   }
+]
