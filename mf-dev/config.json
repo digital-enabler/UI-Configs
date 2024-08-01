@@ -55,7 +55,10 @@
       "auth": "/kpim/kpim-auth-config.json",
       "eventHandler": "/kpim/kpim-event-handler-config.json",
       "sidebar": "/kpim/kpim-sidebar-config.json",
-      "kpisList": "/kpim/kpim-kpis-list-config.json"
+      "kpisList": "/kpim/kpim-kpis-list-config.json",
+      "kpimEditor": "/kpim/kpim-editor-config.json",
+      "measuresList": "/kpim/kpim-measures-list-config.json",
+      "kpimMeasure": "/kpim/kpim-measure-config.json"
     }
   }
 }
