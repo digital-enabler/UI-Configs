@@ -17,6 +17,6 @@
     "@digital-enabler/demf-kpim-editor-summary": "http://localhost:9966/js/app.js",
     "@digital-enabler/demf-kpim-measures-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-measures-list@0.1.0/app.js",
     "@digital-enabler/demf-kpim-measure": "http://localhost:9988/js/app.js",
-    "@digital-enabler/kpim-gui": "https://kpim.dev.dev-digital-enabler.eng.it/demf-kpim-gui.js"
+    "@digital-enabler/kpim-gui": "https://kpi-manager.dev.dev-digital-enabler.eng.it/demf-kpim-gui.js"
   }
 }
