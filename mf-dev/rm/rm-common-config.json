@@ -37,6 +37,16 @@
       "type": "thingsboard_alarm",
       "name": "TB Alarm",
       "icon": "mdi-alarm"
+    },
+    {
+      "type": "kafka",
+      "name": "Kafka",
+      "icon": "mdi-apache-kafka"
+    },
+    {
+      "type": "telegram",
+      "name": "Telegram",
+      "icon": "mdi-send-circle"
     }
   ]
 }
