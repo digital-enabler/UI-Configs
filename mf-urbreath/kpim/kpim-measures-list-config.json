@@ -1,0 +1,5 @@
+{
+  "mf": "Measures List",
+  "api": "http://kpim-middleware-api:3000/api/v1",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+}
