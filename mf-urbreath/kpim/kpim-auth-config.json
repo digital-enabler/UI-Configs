@@ -1,6 +1,6 @@
 {
    "mf":"Auth",
-   "api":"http://kpim-middleware-api:3000/api/v1",
+   "api":"https://kpim_mid_dev.urbreath.tech/api/v1",
    "keycloak":{
       "url":"https://keycloack_dev.urbreath.tech/auth",
       "clientId":"kpi-manager-app",

@@ -1,4 +1,4 @@
 {
     "mf": "Event Handler",
-    "api": "http://kpim-middleware-api:3000/api/v1"
+    "api": "https://kpim_mid_dev.urbreath.tech/api/v1"
 }
