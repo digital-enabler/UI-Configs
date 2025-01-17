@@ -17,6 +17,7 @@
     "@digital-enabler/demf-kpim-editor-summary": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-editor-summary@0.1.10/app.js",
     "@digital-enabler/demf-kpim-measures-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-measures-list@0.1.6/app.js",
     "@digital-enabler/demf-kpim-measure": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-measure@0.1.10/app.js",
+    "@digital-enabler/demf-kpim-compare": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-compare@0.1.1/app.js",
     "@digital-enabler/kpim-gui": "https://kpi-manager.dev.dev-digital-enabler.eng.it/demf-kpim-gui.js"
   }
 }
