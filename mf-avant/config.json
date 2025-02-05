@@ -1,0 +1,25 @@
+{
+  "realm": "Avant",
+  "palette": {
+    "primary": "#003050",
+    "secondary": "#C8004B",
+    "accent": "#A0B1BE",
+    "error": "#F44336",
+    "info": "#3d8ecc",
+    "success": "#4CAF50",
+    "warning": "#ea6d07"
+  },
+  "configs": {
+    "common": {
+      "footer": "/common/common-footer-config.json"
+    },
+    "rm": {
+      "ruleManager": "/rm/rm-common-config.json",
+      "auth": "/rm/rm-auth-config.json",
+      "eventHandler": "/rm/rm-event-handler-config.json",
+      "sidebar": "/rm/rm-sidebar-config.json",
+      "rulesList": "/rm/rm-rules-list-config.json",
+      "ruleEditor": "/rm/rm-rule-editor-config.json"
+    }
+  }
+}
