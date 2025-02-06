@@ -35,6 +35,16 @@
       "flowEditor": "/dme/dme-flow-editor-config.json",
       "customOperators": "/dme/dme-custom-operators-config.json",
       "customOperatorDetails": "/dme/dme-custom-operator-details-config.json"
+    },
+    "kpim": {
+      "auth": "/kpim/kpim-auth-config.json",
+      "eventHandler": "/kpim/kpim-event-handler-config.json",
+      "sidebar": "/kpim/kpim-sidebar-config.json",
+      "kpisList": "/kpim/kpim-kpis-list-config.json",
+      "kpimEditor": "/kpim/kpim-editor-config.json",
+      "measuresList": "/kpim/kpim-measures-list-config.json",
+      "kpimMeasure": "/kpim/kpim-measure-config.json",
+      "compare": "/kpim/kpim-compare-config.json"
     }
   }
 }
