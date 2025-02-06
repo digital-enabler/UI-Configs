@@ -1,0 +1,9 @@
+{
+  "mf": "Auth",
+  "api": "https://rm-middleware-api.avant.digital-enabler.eng.it/api/v1",
+  "keycloak": {
+    "url": "https://idm.digital-enabler.eng.it/auth",
+    "clientId": "rule-app",
+    "enabled": true
+  }
+}
