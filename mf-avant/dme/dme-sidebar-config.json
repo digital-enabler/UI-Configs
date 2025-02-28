@@ -1,6 +1,6 @@
 {
   "mf": "Sidebar",
-  "api": "https://dme-api.digital-enabler.eng.it/api",
+  "api": "https://dme-api.avant.digital-enabler.eng.it/api",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-avant/common/services.json",
   "links": [
