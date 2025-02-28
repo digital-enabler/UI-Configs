@@ -1,8 +1,8 @@
 {
    "mf": "Auth",
-   "api": "https://dme-api.digital-enabler.eng.it/api",
+   "api": "https://dme-api.avant.digital-enabler.eng.it/api",
    "keycloak": {
-      "url": "https://idm.digital-enabler.eng.it/auth",
+      "url": "https://security.avant.alidalab.it",
       "clientId": "dme-v2-app",
       "enabled": false
    }
