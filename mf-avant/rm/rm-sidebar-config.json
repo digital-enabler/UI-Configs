@@ -1,0 +1,23 @@
+{
+  "mf": "Sidebar",
+  "api": "https://rm-middleware-api.core.digital-enabler.eng.it/api/v1",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-avant/common/services.json",
+  "links": [
+    {
+      "title": "labels.rules",
+      "icon": "mdi-ruler-square-compass",
+      "link": "/rules"
+    }
+  ],
+  "favorites": {
+    "enabled": false,
+    "uri": ""
+  },
+  "keycloak": {
+    "enabled": true
+  },
+  "logo": "/rm/RuleManager.svg",
+  "miniLogo": "/de-mini.svg",
+  "showServicesMenu": false
+}
