@@ -1,19 +1,19 @@
 {
   "imports": {
-    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
-    "vue": "https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js",
-    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@3.5.3/dist/vue-router.min.js",
-    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@2.6.5/dist/vuetify.min.js",
-    "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@1.2.0/app.js",
-    "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@1.0.1/app.js",
-    "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@1.2.1/app.js",
-    "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@1.0.1/app.js",
-    "@digital-enabler/demf-rules-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rules-list@0.1.1/app.js",
-    "@digital-enabler/demf-rule-editor-control-panel": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-control-panel@0.0.7/app.js",
-    "@digital-enabler/demf-rule-editor-assets": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-assets@0.0.16/app.js",
-    "@digital-enabler/demf-rule-editor-conditions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-conditions@0.0.15/app.js",
-    "@digital-enabler/demf-rule-editor-actions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-actions@0.0.14/app.js",
-    "@digital-enabler/demf-rule-editor-summary": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-summary@0.0.8/app.js",
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.0/lib/es2015/system/single-spa.min.js",
+    "vue": "https://cdn.jsdelivr.net/npm/vue@3.5/dist/vue.global.min.js",
+    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@4.2.5/dist/vue-router.global.min.js",
+    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@3.8/dist/vuetify.min.js",
+    "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@2.0.3/app.js",
+    "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@2.1.2/app.js",
+    "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@2.0.10/app.js",
+    "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.3/app.js",
+    "@digital-enabler/demf-rules-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rules-list@1.0.1/app.js",
+    "@digital-enabler/demf-rule-editor-control-panel": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-control-panel@1.0.1/app.js",
+    "@digital-enabler/demf-rule-editor-assets": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-assets@1.0.1/app.js",
+    "@digital-enabler/demf-rule-editor-conditions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-conditions@1.0.0/app.js",
+    "@digital-enabler/demf-rule-editor-actions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-actions@1.0.1/app.js",
+    "@digital-enabler/demf-rule-editor-summary": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-summary@1.0.1/app.js",
     "@digital-enabler/rm-gui": "https://rules.avant.digital-enabler.eng.it/demf-rm-gui.js"
   }
 }
