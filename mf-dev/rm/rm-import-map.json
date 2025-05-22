@@ -12,7 +12,7 @@
     "@digital-enabler/demf-rule-editor-control-panel": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-control-panel@1.0.1/app.js",
     "@digital-enabler/demf-rule-editor-assets": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-assets@1.0.1/app.js",
     "@digital-enabler/demf-rule-editor-conditions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-conditions@1.0.0/app.js",
-    "@digital-enabler/demf-rule-editor-actions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-actions@1.0.1/app.js",
+    "@digital-enabler/demf-rule-editor-actions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-actions@1.0.2/app.js",
     "@digital-enabler/demf-rule-editor-summary": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-summary@1.0.1/app.js",
     "@digital-enabler/rm-gui": "https://rules.dev.dev-digital-enabler.eng.it/demf-rm-gui.js"
   }
