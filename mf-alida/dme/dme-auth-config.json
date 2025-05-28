@@ -1,9 +1,0 @@
-{
-   "mf": "Auth",
-   "api": "https://dme-api.avant.digital-enabler.eng.it/api",
-   "keycloak": {
-      "url": "https://security.avant.alidalab.it",
-      "clientId": "dme-v2-app",
-      "enabled": false
-   }
-}
