@@ -6,7 +6,7 @@
     "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@4.2.5/dist/vue-router.global.min.js",
     "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@3.5/dist/vuetify.min.js",
     "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@2.0.3/app.js",
-    "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@2.1.3/app.js",
+    "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@2.1.4/app.js",
     "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@2.0.10/app.js",
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.3/app.js",
     "@digital-enabler/mashups-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/mashups-list@2.1.1/app.js",
