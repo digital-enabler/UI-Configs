@@ -1,0 +1,23 @@
+{
+  "mf": "Sidebar",
+  "api": "https://pem-api.avant.digital-enabler.it/api/v1",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-dev/common/services.json",
+  "links": [
+    {
+      "title": "labels.dts",
+      "icon": "mdi-graph-outline",
+      "link": "/dts"
+    }
+  ],
+  "favorites": {
+    "enabled": false,
+    "uri": ""
+  },
+  "keycloak": {
+    "enabled": true
+  },
+  "logo": "/dtm/RuleManager.svg",
+  "miniLogo": "/de-mini.svg",
+  "showServicesMenu": false
+}
