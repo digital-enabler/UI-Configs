@@ -1,6 +1,6 @@
 {
   "mf": "Auth",
-  "api": "https://pem-api.avant.digital-enabler.it/api/v1",
+  "api": "https://pem-api.avant.digital-enabler.eng.it/api/v1",
   "keycloak": {
     "url": "https://idm.digital-enabler.eng.it/auth",
     "clientId": "rule-app",

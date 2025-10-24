@@ -1,5 +1,5 @@
 {
   "mf": "Digital Twin Model Summary",
-  "api": "https://pem-api.avant.digital-enabler.it/api/v1",
+  "api": "https://pem-api.avant.digital-enabler.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
