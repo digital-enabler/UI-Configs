@@ -1,0 +1,24 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.3/lib/system/single-spa.min.js",
+    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+    "vue": "https://cdn.jsdelivr.net/npm/vue@3.5.22/dist/vue.global.min.js",
+    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@4.6.3/dist/vue-router.global.min.js",
+    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@3.10.7/dist/vuetify.min.js",
+    "demf-auth": "https://cdn.jsdelivr.net/npm/demf-auth@3.0.0/mf-app.js",
+    "demf-event-handler": "https://cdn.jsdelivr.net/npm/demf-event-handler@3.0.0/mf-app.js",
+    "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.0.1/mf-app.js",
+    "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.0.2/mf-app.js",
+    "demf-mashups-list": "https://cdn.jsdelivr.net/npm/demf-mashups-list@3.0.0/mf-app.js",
+    "demf-mashups-editor": "https://cdn.jsdelivr.net/npm/demf-mashups-editor@3.0.2/mf-app.js",
+    "demf-mashups-editor-appbar": "https://cdn.jsdelivr.net/npm/demf-mashups-editor-appbar@3.0.3/mf-app.js",
+    "demf-datasources-list": "https://cdn.jsdelivr.net/npm/demf-datasources-list@3.0.0/mf-app.js",
+    "demf-datasource-details": "https://cdn.jsdelivr.net/npm/demf-datasource-details@3.0.0/mf-app.js",
+    "demf-flows-list": "https://cdn.jsdelivr.net/npm/demf-flows-list@3.0.0/mf-app.js",
+    "demf-flow-editor": "https://cdn.jsdelivr.net/npm/demf-flow-editor@3.0.0/mf-app.js",
+    "demf-custom-operators": "https://cdn.jsdelivr.net/npm/demf-custom-operators@3.0.0/mf-app.js",
+    "demf-custom-operator-details": "https://cdn.jsdelivr.net/npm/demf-custom-operator-details@3.0.1/mf-app.js",
+    "@digital-enabler/share-form": "https://cdn.jsdelivr.net/npm/@digital-enabler/share-form@1.1.0/app.js",
+    "demf-gui-root": "https://mashupsuiv3.avant.digital-enabler.eng.it/demf-dme-gui.js"
+  }
+}
