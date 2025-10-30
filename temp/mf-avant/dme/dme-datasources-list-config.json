@@ -1,0 +1,6 @@
+{
+    "name": "Datasources List",
+    "mf": "demf-datasources-list",
+    "api": "https://dme-api.avant.digital-enabler.eng.it/api/v3",
+    "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+}
