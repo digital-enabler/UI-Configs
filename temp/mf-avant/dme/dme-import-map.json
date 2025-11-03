@@ -1,6 +1,6 @@
 {
   "imports": {
-    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.3/dist/system/single-spa.min.js",
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.3/lib/es2015/system/single-spa.min.js",
     "vue": "https://cdn.jsdelivr.net/npm/vue@3.5.22/dist/vue.global.min.js",
     "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@4.6.3/dist/vue-router.global.min.js",
     "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@3.10.4/dist/vuetify.min.js",
