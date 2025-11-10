@@ -5,7 +5,7 @@
   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-dev/common/services.json",
   "links": [
     {
-      "title": "labels.dts",
+      "title": "labels.models",
       "icon": "mdi-graph-outline",
       "link": "/dts"
     }
@@ -17,7 +17,7 @@
   "keycloak": {
     "enabled": true
   },
-  "logo": "/dtm/RuleManager.svg",
+  "logo": "/dtm/DigitalTwinModeller.svg",
   "miniLogo": "/de-mini.svg",
   "showServicesMenu": false
 }
