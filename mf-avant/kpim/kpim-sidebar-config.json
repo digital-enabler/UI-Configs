@@ -22,7 +22,7 @@
   "keycloak": {
     "enabled": false
   },
-  "logo": "kpim/DataMashupEditor.svg",
+  "logo": "/kpim/DataMashupEditor.svg",
   "miniLogo": "/de-mini.svg",
   "showServicesMenu": false
 }
