@@ -1,0 +1,5 @@
+{
+  "mf": "KPIM Measure",
+  "api": "https://kpim-middleware-api.regions4climate.digital-enabler.eng.it/api/v1",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+}
