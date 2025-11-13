@@ -18,6 +18,6 @@
     "@digital-enabler/demf-kpim-measures-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-measures-list@0.2.2/app.js",
     "@digital-enabler/demf-kpim-measure": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-measure@0.2.3/app.js",
     "@digital-enabler/demf-kpim-compare": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-compare@0.2.0/app.js",
-    "@digital-enabler/kpim-gui": "https://kpi-manager.avant.digital-enabler.eng.it/demf-kpim-gui.js"
+    "@digital-enabler/kpim-gui": "https://kpi-manager.regions4climate.digital-enabler.eng.it/demf-kpim-gui.js"
   }
 }
