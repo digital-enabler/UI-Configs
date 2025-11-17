@@ -9,7 +9,7 @@
     "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.0.1/mf-app.js",
     "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.0.2/mf-app.js",
     "demf-mashups-list": "https://cdn.jsdelivr.net/npm/demf-mashups-list@3.0.0/mf-app.js",
-    "demf-mashups-editor": "https://cdn.jsdelivr.net/npm/demf-mashups-editor@3.0.2/mf-app.js",
+    "demf-mashups-editor": "https://cdn.jsdelivr.net/npm/demf-mashups-editor@3.1.0/mf-app.js",
     "demf-mashups-editor-appbar": "https://cdn.jsdelivr.net/npm/demf-mashups-editor-appbar@3.0.3/mf-app.js",
     "demf-datasources-list": "https://cdn.jsdelivr.net/npm/demf-datasources-list@3.0.0/mf-app.js",
     "demf-datasource-details": "https://cdn.jsdelivr.net/npm/demf-datasource-details@3.0.0/mf-app.js",
