@@ -2,5 +2,9 @@
   "name": "Mashup Editor",
   "mf": "demf-mashups-editor",
   "api": "https://dme-api.avant.digital-enabler.eng.it/api/v3",
-  "apiDraw": "https://dme-api.avant.digital-enabler.eng.it/v3"
+  "apiDraw": "https://dme-api.avant.digital-enabler.eng.it/v3",
+  "importFileType": {
+    "csv": ".csv",
+    "excel": ".xls,.xlsx"
+  }
 }
