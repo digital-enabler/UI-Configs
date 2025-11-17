@@ -1,6 +1,6 @@
 {
    "mf":"Auth",
-   "api":"https://kpim-middleware-api.avant.digital-enabler.eng.it/api/v1",
+   "api":"https://kpim-middleware-api.regions4climate.digital-enabler.eng.it/api/v1",
    "keycloak":{
       "url":"https://idm.digital-enabler.eng.it/auth",
       "clientId":"kpi-manager-app",
