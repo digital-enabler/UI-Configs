@@ -8,9 +8,9 @@
     "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@2.1.3/app.js",
     "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@2.0.12/app.js",
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.3/app.js",
-    "@digital-enabler/demf-dtm-models-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dtm-models-list@0.0.5/app.js",
-    "@digital-enabler/demf-dtm-relations-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dtm-relations-editor@0.0.5/app.js",
-    "@digital-enabler/demf-dtm-data-definition": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dtm-data-definition@0.0.7/app.js",
+    "@digital-enabler/demf-dtm-models-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dtm-models-list@0.0.6/app.js",
+    "@digital-enabler/demf-dtm-relations-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dtm-relations-editor@0.0.6/app.js",
+    "@digital-enabler/demf-dtm-data-definition": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dtm-data-definition@0.0.8/app.js",
     "@digital-enabler/demf-dtm-model-conversion": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dtm-model-conversion@0.0.4/app.js",
     "@digital-enabler/demf-dtm-model-summary": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dtm-model-summary@0.0.6/app.js",
     "@digital-enabler/dtm-gui": "https://dtmui.avant.digital-enabler.eng.it/demf-dtm-gui.js"
