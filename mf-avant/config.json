@@ -55,7 +55,9 @@
       "digitalTwinRelationsEditor": "/dtm/dtm-relations-editor-config.json",
       "digitalTwinDataDefinition": "/dtm/dtm-data-definition-config.json",
       "digitalTwinModelConversion": "/dtm/dtm-model-conversion-config.json",
-      "digitalTwinModelSummary": "/dtm/dtm-model-summary-config.json"
+      "digitalTwinModelSummary": "/dtm/dtm-model-summary-config.json",
+      "digitalTwinEntitiesList": "/dtm/dtm-entities-list-config.json",
+      "digitalTwinEntity": "/dtm/dtm-entity-config.json"
     }
   }
 }
