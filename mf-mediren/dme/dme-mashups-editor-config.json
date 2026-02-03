@@ -1,0 +1,10 @@
+{
+  "name": "Mashup Editor",
+  "mf": "demf-mashups-editor",
+  "api": "https://dme-api.core.svc.cluster.local:8083/api/v3",
+  "apiDraw": "https://dme-api.core.svc.cluster.local:8083/v3",
+  "importFileType": {
+    "csv": ".csv",
+    "excel": ".xls,.xlsx"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "mf": "Digital Twin Common",
+  "domains": [
+    {
+      "name": "Urban",
+      "value": "Urban"
+    },
+    {
+      "name": "Energy",
+      "value": "Energy"
+    },
+    {
+      "name": "Industry",
+      "value": "Industry"
+    },
+    {
+      "name": "Museum",
+      "value": "Museum"
+    },
+    {
+      "name": "Health",
+      "value": "Health"
+    }
+  ],
+  "entites": [
+    {
+      "category": "Structure",
+      "icon": "mdi-domain",
+      "color": "blue"
+    },
+    {
+      "category": "Sensor",
+      "icon": "mdi-motion-sensor",
+      "color": "orange"
+    },
+    {
+      "category": "Actuator",
+      "icon": "mdi-cog",
+      "color": "green"
+    }
+  ]
+}
