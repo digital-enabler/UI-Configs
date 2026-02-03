@@ -1,0 +1,6 @@
+{
+  "name": "Flows List",
+  "mf": "demf-flows-list",
+  "api": "https://dme-api.core.svc.cluster.local:8083/api/v3",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+}

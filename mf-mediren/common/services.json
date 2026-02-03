@@ -1,0 +1,92 @@
+[
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Dashboard Manager",
+      "link":"",
+      "prefix":"dashboards.",
+      "path":"/",
+      "active":false,
+      "category":"data_visualization"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Database Manager",
+      "link":"",
+      "prefix":"database.",
+      "path":"",
+      "active":true,
+      "category":"data_processing"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Data Mashup",
+      "link":"",
+      "prefix":"mashups.",
+      "path":"",
+      "active":true,
+      "category":"data_processing"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Dataflow",
+      "link":"",
+      "prefix":"airflow.",
+      "path":"",
+      "active":true,
+      "category":"data_management"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Identity Manager",
+      "link":"",
+      "prefix":"idm.",
+      "path":"/auth/realms/[tenant]/account",
+      "active":true,
+      "category":"data_management"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Storage",
+      "link":"",
+      "prefix":"storage-console.",
+      "path":"",
+      "active":true,
+      "category":"data_management"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"Device Manager",
+      "link":"",
+      "prefix":"devices.",
+      "path":"",
+      "active":true,
+      "category":"internet_things"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"ClouDev",
+      "link":"",
+      "prefix":"cloudev.",
+      "path":"",
+      "active":true,
+      "category":"tools_developers"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"AI Studio",
+      "link":"",
+      "prefix":".",
+      "path":"",
+      "active":false,
+      "category":"tools_developers"
+   },
+   {
+      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "name":"APIs",
+      "link":"",
+      "prefix":"api.",
+      "path":"",
+      "active":true,
+      "category":"tools_developers"
+   }
+]

@@ -1,0 +1,5 @@
+{
+  "name": "Share Form",
+  "mf": "demf-share-form",
+  "api": "https://dme-api.core.svc.cluster.local:8083/api/v3"
+}
