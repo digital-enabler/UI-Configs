@@ -34,7 +34,8 @@
       "flowsList": "/dme/dme-flows-list-config.json",
       "flowEditor": "/dme/dme-flow-editor-config.json",
       "customOperators": "/dme/dme-custom-operators-config.json",
-      "customOperatorDetails": "/dme/dme-custom-operator-details-config.json"
+      "customOperatorDetails": "/dme/dme-custom-operator-details-config.json",
+      "dataDiscovery": "/dme/dme-data-discovery-config.json"
     },
     "kpim": {
       "auth": "/kpim/kpim-auth-config.json",

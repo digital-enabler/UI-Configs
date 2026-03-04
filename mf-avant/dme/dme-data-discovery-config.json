@@ -1,0 +1,14 @@
+{
+    "name": "Data Discovery",
+    "mf": "demf-data-discovery",
+    "api": "//localhost:8083/api/v3",
+    "fileFormats": {
+        "CSV":  { "icon": "mdi-file-delimited", "color": "green" },
+        "JSON": { "icon": "mdi-code-json", "color": "blue" },
+        "XML":  { "icon": "mdi-file-code", "color": "deep-orange" },
+        "PDF":  { "icon": "mdi-file-pdf-box", "color": "red" },
+        "XLSX": { "icon": "mdi-file-excel", "color": "teal" },
+        "XLS":  { "icon": "mdi-file-excel", "color": "teal" },
+        "ZIP":  { "icon": "mdi-folder-zip", "color": "amber" }
+      }
+}
