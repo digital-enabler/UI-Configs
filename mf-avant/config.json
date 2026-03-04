@@ -27,7 +27,7 @@
       "sidebar": "/dme/dme-sidebar-config.json",
       "mashupsList": "/dme/dme-mashups-list-config.json",
       "editor": "/dme/dme-editor-config.json",
-      "editorAppbar": "/dme/dme-editor-appbar-config.json",
+      "editorAppbar": "/dme/dme-mashups-editor-appbar-config.json",
       "shareForm": "/dme/dme-share-form-config.json",
       "datasourcesList": "/dme/dme-datasources-list-config.json",
       "datasourceDetails": "/dme/dme-datasource-details-config.json",
