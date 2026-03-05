@@ -1,7 +1,7 @@
 {
   "name": "Sidebar",
   "mf": "demf-sidebar",
-  "api": "//dme-api.core.svc.cluster.local:8083/api",
+  "api": "https://mashups-mediren.eng.it/api",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/robraccu/storage/main/UI-Configs/mf-dev/common/services.json",
   "links": [

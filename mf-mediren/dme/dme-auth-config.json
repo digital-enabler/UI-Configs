@@ -1,9 +1,9 @@
 {
    "name": "Auth",
    "mf": "demf-auth",
-   "api": "//dme-api.core.svc.cluster.local:8083/api",
+   "api": "https://mashups-mediren.eng.it/api",
    "keycloak": {
-      "url": "https://localhost:8787/auth",
+      "url": "https://keycloak-mediren.eng.it",
       "clientId": "dme-v2-app",
       "enabled": false
    }

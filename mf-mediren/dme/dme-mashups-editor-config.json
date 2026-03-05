@@ -1,8 +1,8 @@
 {
   "name": "Mashup Editor",
   "mf": "demf-mashups-editor",
-  "api": "https://dme-api.core.svc.cluster.local:8083/api/v3",
-  "apiDraw": "https://dme-api.core.svc.cluster.local:8083/v3",
+  "api": "https://mashups-mediren.eng.it/api/v3",
+  "apiDraw": "https://mashups-mediren.eng.it/v3",
   "importFileType": {
     "csv": ".csv",
     "excel": ".xls,.xlsx"
