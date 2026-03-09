@@ -1,7 +1,7 @@
 {
     "name": "Data Discovery",
     "mf": "demf-data-discovery",
-    "api": "//localhost:8083/api/v3",
+    "api": "https://dme-api.avant.digital-enabler.eng.it/api/v3",
     "fileFormats": {
         "CSV":  { "icon": "mdi-file-delimited", "color": "green" },
         "JSON": { "icon": "mdi-code-json", "color": "blue" },
