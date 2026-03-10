@@ -1,9 +1,9 @@
 {
    "name":"Auth",
    "mf": "demf-auth",
-   "api":"https://kpim-middleware-api.avant.digital-enabler.eng.it/api/v1",
+   "api":"https://kpim-mediren.eng.it/api/v1",
    "keycloak":{
-      "url":"https://idm.digital-enabler.eng.it/auth",
+      "url":"https://keycloak-mediren.eng.it",
       "clientId":"kpi-manager-app",
       "enabled":false
    }

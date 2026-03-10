@@ -1,7 +1,7 @@
 {
   "name": "KPIM Editor",
   "mf": "demf-kpim-editor",
-  "api": "https://kpim-middleware-api.avant.digital-enabler.eng.it/api/v1",
+  "api": "https://kpim-mediren.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "unitSymbols": {
     "METER":"m",

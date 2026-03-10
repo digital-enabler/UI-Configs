@@ -1,9 +1,9 @@
 {
   "name": "Sidebar",
   "mf": "demf-sidebar",
-  "api": "https://kpim-middleware-api.avant.digital-enabler.eng.it/api/v1",
+  "api": "https://kpim-mediren.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
-  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-avant/common/services.json",
+  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-mediren/common/services.json",
   "links": [
     {
       "title": "labels.kpis",
