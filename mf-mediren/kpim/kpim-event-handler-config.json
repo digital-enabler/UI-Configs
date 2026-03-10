@@ -1,5 +1,5 @@
 {
     "name": "Event Handler",
     "mf": "demf-event-handler",
-    "api": "https://kpim-middleware-api.avant.digital-enabler.eng.it/api/v1"
+    "api": "https://kpim-mediren.eng.it/api/v1"
 }
