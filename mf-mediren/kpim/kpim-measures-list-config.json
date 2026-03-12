@@ -1,6 +1,6 @@
 {
   "name": "Measures List",
   "mf": "demf-kpim-measures-list",
-  "api": "https://kpim-mediren.eng.it/api/v1",
+  "api": "https://kpim.mediren.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
