@@ -1,0 +1,10 @@
+{
+   "name":"Auth",
+   "mf":"demf-auth",
+   "api":"https://rm-middleware-api.core.digital-enabler.eng.it/api/v1",
+   "keycloak":{
+      "url":"https://idm.digital-enabler.eng.it/auth",
+      "clientId":"rule-app-local",
+      "enabled":false
+   }
+}
