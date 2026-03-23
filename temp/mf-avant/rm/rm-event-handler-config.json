@@ -1,0 +1,5 @@
+{
+    "name": "Event Handler",
+    "mf": "demf-event-handler",
+    "api": "https://rm-middleware-api.core.digital-enabler.eng.it/api/v1"
+}

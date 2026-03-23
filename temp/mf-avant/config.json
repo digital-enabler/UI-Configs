@@ -35,7 +35,12 @@
       "eventHandler": "/rm/rm-event-handler-config.json",
       "sidebar": "/rm/rm-sidebar-config.json",
       "rulesList": "/rm/rm-rules-list-config.json",
-      "ruleEditor": "/rm/rm-rule-editor-config.json"
+      "ruleEditor": "/rm/rm-rule-editor-config.json",
+      "ruleEditorControlPanel": "/rm/rm-rule-editor-config.json",
+      "ruleEditorAssets": "/rm/rm-rule-editor-config.json",
+      "ruleEditorConditions": "/rm/rm-rule-editor-config.json",
+      "ruleEditorActions": "/rm/rm-rule-editor-config.json",
+      "ruleEditorSummary": "/rm/rm-rule-editor-config.json"
     },
     "kpim": {
       "auth": "/kpim/kpim-auth-config.json",
