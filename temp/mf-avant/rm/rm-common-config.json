@@ -1,83 +1,43 @@
 {
    "name":"RuleManager",
    "mf":"demf-rule-manager",
-   "assets":[
-      {
-         "type":"device",
-         "name":"Device",
-         "icon":"mdi-devices"
-      },
-      {
-         "type":"flow",
-         "name":"Mashup Flow",
-         "icon":"mdi-file-tree"
-      },
-       {
-         "type": "ngsi-ld",
-         "name": "NGSI ENTITY",
-         "icon": "mdi-vector-circle"
-       },
-       {
-         "type": "calendar-event",
-         "name": "Google Calendar",
-         "icon": "mdi-calendar-month"
-       },
-      {
-         "type":"function",
-         "name":"Function",
-         "icon":"mdi-function"
-      },
-      {
-         "type":"twin",
-         "name":"Digital Twin",
-         "icon":"mdi-content-duplicate"
-      },
-      {
-         "type":"database",
-         "name":"Database",
-         "icon":"mdi-database"
-      },
-      {
-         "type":"aiexperiment",
-         "name":"AI Experiment",
-         "icon":"mdi-brain"
-      },
-      {
-         "type":"storefile",
-         "name":"Store file",
-         "icon":"mdi-file-cloud-outline"
-      },
-      {
-         "type":"url",
-         "name":"URL",
-         "icon":"mdi-web"
-      },
-      {
-         "type":"file",
-         "name":"File",
-         "icon":"mdi-file"
-      }
+   "assets": [
+    {
+      "type": "flow",
+      "name": "Mashup Flow",
+      "icon": "mdi-file-tree"
+    },
+    {
+      "type": "ngsi-ld",
+      "name": "NGSI ENTITY",
+      "icon": "mdi-vector-circle"
+    },
+    {
+      "type": "calendar-event",
+      "name": "Google Calendar",
+      "icon": "mdi-calendar-month"
+    }
    ],
-   "actions":[
-      {
-         "type":"email",
-         "name":"E-Mail",
-         "icon":"mdi-email"
-      },
-      {
-         "type":"webhook",
-         "name":"Webhook",
-         "icon":"mdi-webhook"
-      },
-      {
-         "type":"thingsboard_alarm",
-         "name":"TB Alarm",
-         "icon":"mdi-alarm"
-      },
-      {
-         "type":"device",
-         "name":"Device",
-         "icon":"mdi-devices"
-      }
+   "actions": [
+    {
+      "type": "email",
+      "name": "E-Mail",
+      "icon": "mdi-email"
+    },
+    {
+      "type": "webhook",
+      "name": "Webhook",
+      "icon": "mdi-webhook"
+    },
+    {
+      "type": "kafka",
+      "name": "Kafka",
+      "icon": "mdi-apache-kafka"
+    },
+    {
+      "type": "telegram",
+      "name": "Telegram",
+      "icon": "mdi-send-circle"
+    }
    ]
 }
