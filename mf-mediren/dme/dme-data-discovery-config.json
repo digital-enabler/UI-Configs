@@ -12,5 +12,5 @@
         "XLS":  { "icon": "mdi-file-excel", "color": "teal" },
         "ZIP":  { "icon": "mdi-folder-zip", "color": "amber" }
       },
-    "searchTimeout": 120000
+    "searchTimeout": 0
 }
