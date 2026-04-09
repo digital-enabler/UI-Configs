@@ -1,4 +1,5 @@
 {
-  "mf": "Event Handler",
+  "name": "Event Handler",
+  "mf": "demf-event-handler",
   "api": "https://rules-mediren.eng.it/api/v1"
 }

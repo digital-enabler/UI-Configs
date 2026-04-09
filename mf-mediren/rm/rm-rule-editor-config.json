@@ -1,5 +1,7 @@
 {
-  "mf": "Rule Editor",
+  "name": "Rule Editor",
+  "mf": "demf-rule-editor",
   "api": "https://rules-mediren.eng.it/api/v1",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "apiAssetsUrl": "https://f87d8c7c-3048-465e-a9be-8131e2a875d8.mock.pstmn.io/api/v1"
 }
