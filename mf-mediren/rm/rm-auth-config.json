@@ -1,5 +1,6 @@
 {
-  "mf": "Auth",
+  "name":"Auth",
+  "mf":"demf-auth",
   "api": "https://rules-mediren.eng.it/api/v1",
   "keycloak": {
     "url": "https://keycloak-mediren.eng.it",
