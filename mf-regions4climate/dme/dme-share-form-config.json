@@ -1,4 +1,5 @@
 {
-    "mf": "Share Form",
+    "name": "Share Form",
+    "mf": "demf-share-form",
     "api": "https://dme-api.digital-enabler.eng.it/api/v3"
 }
