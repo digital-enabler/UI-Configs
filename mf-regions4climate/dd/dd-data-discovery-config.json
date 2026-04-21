@@ -1,7 +1,7 @@
 {
     "name": "Data Discovery",
     "mf": "demf-data-discovery",
-    "api": "https://discovery-api.avant.digital-enabler.eng.it/api/v3",
+    "api": "https://discovery-api.regions4climate.digital-enabler.eng.it/api/v3",
     "standaloneMode": true,
     "fileFormats": {
         "CSV":  { "icon": "mdi-file-delimited", "color": "green" },
