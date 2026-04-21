@@ -1,5 +1,6 @@
 {
-  "mf": "Sidebar",
+  "name": "Sidebar",
+  "mf": "demf-sidebar",
   "api": "https://dme-api.digital-enabler.eng.it/api",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-regions4climate/common/services.json",

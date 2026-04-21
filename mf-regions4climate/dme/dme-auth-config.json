@@ -1,5 +1,6 @@
 {
-   "mf":"Auth",
+   "name": "Auth",
+   "mf":"demf-auth",
    "api":"https://dme-api.digital-enabler.eng.it/api",
    "keycloak":{
       "url":"https://idm.digital-enabler.eng.it/auth",

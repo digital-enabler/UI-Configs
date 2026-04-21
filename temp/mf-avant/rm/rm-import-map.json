@@ -8,12 +8,12 @@
     "demf-event-handler": "https://cdn.jsdelivr.net/npm/demf-event-handler@3.1.0/mf-app.js",
     "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.1.0/mf-app.js",
     "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.1.0/mf-app.js",
-    "demf-rules-list": "https://cdn.jsdelivr.net/npm/demf-rules-list@3.0.0/mf-app.js",
-    "demf-rule-editor-control-panel": "https://cdn.jsdelivr.net/npm/demf-rule-editor-control-panel@3.0.0/mf-app.js",
-    "demf-rule-editor-assets": "https://cdn.jsdelivr.net/npm/demf-rule-editor-assets@3.0.0/mf-app.js",
-    "demf-rule-editor-conditions": "https://cdn.jsdelivr.net/npm/demf-rule-editor-conditions@3.0.0/mf-app.js",
-    "demf-rule-editor-actions": "https://cdn.jsdelivr.net/npm/demf-rule-editor-actions@3.0.0/mf-app.js",
-    "demf-rule-editor-summary": "https://cdn.jsdelivr.net/npm/demf-rule-editor-summary@3.0.0/mf-app.js",
+    "demf-rules-list": "https://cdn.jsdelivr.net/npm/demf-rules-list@3.0.1/mf-app.js",
+    "demf-rule-editor-control-panel": "https://cdn.jsdelivr.net/npm/demf-rule-editor-control-panel@3.0.1/mf-app.js",
+    "demf-rule-editor-assets": "https://cdn.jsdelivr.net/npm/demf-rule-editor-assets@3.0.1/mf-app.js",
+    "demf-rule-editor-conditions": "https://cdn.jsdelivr.net/npm/demf-rule-editor-conditions@3.0.1/mf-app.js",
+    "demf-rule-editor-actions": "https://cdn.jsdelivr.net/npm/demf-rule-editor-actions@3.0.1/mf-app.js",
+    "demf-rule-editor-summary": "https://cdn.jsdelivr.net/npm/demf-rule-editor-summary@3.0.1/mf-app.js",
     "demf-gui-root": "https://rules.avant.digital-enabler.eng.it/demf-rm-gui.js"
   }
 }

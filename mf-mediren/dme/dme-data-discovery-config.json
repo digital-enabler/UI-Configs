@@ -2,6 +2,7 @@
     "name": "Data Discovery",
     "mf": "demf-data-discovery",
     "api": "https://mashups-mediren.eng.it/api/v3",
+    "standaloneMode": false,
     "fileFormats": {
         "CSV":  { "icon": "mdi-file-delimited", "color": "green" },
         "JSON": { "icon": "mdi-code-json", "color": "blue" },
@@ -10,5 +11,6 @@
         "XLSX": { "icon": "mdi-file-excel", "color": "teal" },
         "XLS":  { "icon": "mdi-file-excel", "color": "teal" },
         "ZIP":  { "icon": "mdi-folder-zip", "color": "amber" }
-      }
+      },
+    "searchTimeout": 0
 }
