@@ -37,6 +37,12 @@
       "measuresList": "/kpim/kpim-measures-list-config.json",
       "kpimMeasure": "/kpim/kpim-measure-config.json",
       "compare": "/kpim/kpim-compare-config.json"
+    },
+    "dd": {
+      "auth": "/dd/dd-auth-config.json",
+      "eventHandler": "/dd/dd-event-handler-config.json",
+      "sidebar": "/dd/dd-sidebar-config.json",
+      "dataDiscovery": "/dd/dd-data-discovery-config.json"
     }
   }
 }
