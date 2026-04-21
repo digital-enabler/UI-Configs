@@ -1,25 +1,20 @@
 {
   "name": "Sidebar",
   "mf": "demf-sidebar",
-  "api": "//localhost:8083/api",
+  "api": "https://dme-api.avant.digital-enabler.eng.it/api",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
-  "jsonTools": "https://raw.githubusercontent.com/robraccu/storage/main/UI-Configs/mf-dev/common/services.json",
+  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-avant/common/services.json",
   "links": [
     {
       "title": "labels.data-discovery",
       "icon": "mdi-search-web",
       "link": "/data-discovery"
     }
-    
   ],
   "favorites": {
-    "enabled": false,
-    "uri": ""
+    "enabled": true
   },
-  "keycloak": {
-    "enabled": false
-  },
-  "logo": "/DataMashupEditor.svg",
+  "logo": "/rm/DataDiscovery.svg",
   "miniLogo": "/de-mini.svg",
   "showServicesMenu": false
 }
