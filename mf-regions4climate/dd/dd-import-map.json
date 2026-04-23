@@ -9,6 +9,6 @@
     "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.1.1/mf-app.js",
     "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.1.2/mf-app.js",
     "demf-data-discovery": "https://cdn.jsdelivr.net/npm/demf-data-discovery@3.1.1/mf-app.js",
-    "demf-gui-root": "https://discovery.avant.digital-enabler.eng.it/gui-root.js"
+    "demf-gui-root": "https://discovery.regions4climate.digital-enabler.eng.it/gui-root.js"
   }
 }
