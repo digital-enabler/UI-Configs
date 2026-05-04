@@ -1,8 +1,9 @@
 {
   "realm": "Avant",
   "palette": {
-    "primary": "#003050",
-    "secondary": "#C8004B",
+    "primary": "#002F53",
+    "secondary": "#C5004B",
+    "grey":	"#F3F4F6",
     "accent": "#A0B1BE",
     "error": "#F44336",
     "info": "#3d8ecc",

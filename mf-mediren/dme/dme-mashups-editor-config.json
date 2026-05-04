@@ -5,6 +5,8 @@
   "apiDraw": "https://mashups-mediren.eng.it/v3",
   "importFileType": {
     "csv": ".csv",
-    "excel": ".xls,.xlsx"
+    "excel": ".xls,.xlsx",
+    "json": ".json",
+    "text": ".txt"
   }
 }
