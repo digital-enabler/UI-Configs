@@ -1,0 +1,20 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.3/lib/es2015/system/single-spa.min.js",
+    "vue": "https://cdn.jsdelivr.net/npm/vue@3.5.33/dist/vue.global.min.js",
+    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@5.0.6/dist/vue-router.global.min.js",
+    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@3.12.5/dist/vuetify.min.js",
+    "demf-auth": "https://cdn.jsdelivr.net/npm/demf-auth@3.1.2/mf-app.js",
+    "demf-event-handler": "https://cdn.jsdelivr.net/npm/demf-event-handler@3.1.1/mf-app.js",
+    "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.1.1/mf-app.js",
+    "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.1.2/mf-app.js",
+    "demf-dtm-models-list": "https://cdn.jsdelivr.net/npm/demf-dtm-models-list@3.0.0/mf-app.js",
+    "demf-dtm-relations-editor": "https://cdn.jsdelivr.net/npm/demf-dtm-relations-editor@3.0.0/mf-app.js",
+    "demf-dtm-data-definition": "https://cdn.jsdelivr.net/npm/demf-dtm-data-definition@3.0.0/mf-app.js",
+    "demf-dtm-model-conversion": "https://cdn.jsdelivr.net/npm/demf-dtm-model-conversion@3.0.0/mf-app.js",
+    "demf-dtm-model-summary": "https://cdn.jsdelivr.net/npm/demf-dtm-model-summary@3.0.0/mf-app.js",
+    "demf-dtm-entities-list": "https://cdn.jsdelivr.net/npm/demf-dtm-entities-list@3.0.0/mf-app.js",
+    "demf-dtm-entity": "https://cdn.jsdelivr.net/npm/demf-dtm-entity@3.0.0/mf-app.js",
+    "demf-gui-root": "https://dtmui.avant.digital-enabler.eng.it/demf-dtm-gui.js"
+  }
+}
