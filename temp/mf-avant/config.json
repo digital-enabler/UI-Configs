@@ -52,6 +52,25 @@
       "measuresList": "/kpim/kpim-measures-list-config.json",
       "kpimMeasure": "/kpim/kpim-measure-config.json",
       "kpimCompare": "/kpim/kpim-compare-config.json"
+    },
+    "dd": {
+      "auth": "/dd/dd-auth-config.json",
+      "eventHandler": "/dd/dd-event-handler-config.json",
+      "sidebar": "/dd/dd-sidebar-config.json",
+      "dataDiscovery": "/dd/dd-data-discovery-config.json"
+    },
+    "dtm": {
+      "auth": "/dtm/dtm-auth-config.json",
+      "eventHandler": "/dtm/dtm-event-handler-config.json",
+      "sidebar": "/dtm/dtm-sidebar-config.json",
+      "dtmEditor": "/dtm/dtm-editor-config.json",
+      "dtmModelsList": "/dtm/dtm-models-list-config.json",
+      "dtmEditorDefinitions": "/dtm/dtm-editor-definition-config.json",
+      "dtmEditorDataBinding": "/dtm/dtm-editor-data-binding-config.json",
+      "dtmEditorConversion": "/dtm/dtm-editor-conversion-config.json",
+      "dtmEditorSummary": "/dtm/dtm-editor-summary-config.json",
+      "dtmEntitiesList": "/dtm/dtm-entities-list-config.json",
+      "dtmEntity": "/dtm/dtm-entity-config.json"
     }
   }
 }
