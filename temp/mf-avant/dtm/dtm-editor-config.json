@@ -1,7 +1,7 @@
 {
   "name": "DTM Editor",
   "mf": "demf-dtm-editor",
-  "api": "http://localhost:3000/api/v1",
+  "api": "https://pem-api.avant.digital-enabler.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "domains": [
     {

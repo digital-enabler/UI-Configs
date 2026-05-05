@@ -1,5 +1,5 @@
 {
   "name": "Event Handler",
   "mf": "demf-event-handler",
-  "api": "http://localhost:3000/api/v1"
+  "api": "https://pem-api.avant.digital-enabler.eng.it/api/v1"
 }

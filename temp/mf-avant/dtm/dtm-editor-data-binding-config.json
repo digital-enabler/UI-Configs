@@ -1,6 +1,6 @@
 {
   "name": "DTM Editor Data Binding",
   "mf": "demf-dtm-editor-data-binding",
-  "api": "http://localhost:3000/api/v1",
+  "api": "https://pem-api.avant.digital-enabler.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
