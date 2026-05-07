@@ -1,5 +1,8 @@
 {
-  "mf": "Digital Twin Common",
+  "name": "DTM Editor",
+  "mf": "demf-dtm-editor",
+  "api": "https://dtm-mediren.eng.it/api/v1",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "domains": [
     {
       "name": "Urban",

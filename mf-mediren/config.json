@@ -57,14 +57,14 @@
       "auth": "/dtm/dtm-auth-config.json",
       "eventHandler": "/dtm/dtm-event-handler-config.json",
       "sidebar": "/dtm/dtm-sidebar-config.json",
-      "digitalTwinCommon": "/dtm/dtm-common-config.json",
-      "digitalTwinModelsList": "/dtm/dtm-models-list-config.json",
-      "digitalTwinRelationsEditor": "/dtm/dtm-relations-editor-config.json",
-      "digitalTwinDataDefinition": "/dtm/dtm-data-definition-config.json",
-      "digitalTwinModelConversion": "/dtm/dtm-model-conversion-config.json",
-      "digitalTwinModelSummary": "/dtm/dtm-model-summary-config.json",
-      "digitalTwinEntitiesList": "/dtm/dtm-entities-list-config.json",
-      "digitalTwinEntity": "/dtm/dtm-entity-config.json"
+      "dtmEditor": "/dtm/dtm-editor-config.json",
+      "dtmModelsList": "/dtm/dtm-models-list-config.json",
+      "dtmEditorDefinitions": "/dtm/dtm-editor-definition-config.json",
+      "dtmEditorDataBinding": "/dtm/dtm-editor-data-binding-config.json",
+      "dtmEditorConversion": "/dtm/dtm-editor-conversion-config.json",
+      "dtmEditorSummary": "/dtm/dtm-editor-summary-config.json",
+      "dtmEntitiesList": "/dtm/dtm-entities-list-config.json",
+      "dtmEntity": "/dtm/dtm-entity-config.json"
     }
   }
 }
