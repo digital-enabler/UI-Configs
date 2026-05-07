@@ -15,6 +15,6 @@
     "demf-dtm-editor-summary": "https://cdn.jsdelivr.net/npm/demf-dtm-model-summary@3.0.0/mf-app.js",
     "demf-dtm-entities-list": "https://cdn.jsdelivr.net/npm/demf-dtm-entities-list@3.0.0/mf-app.js",
     "demf-dtm-entity": "https://cdn.jsdelivr.net/npm/demf-dtm-entity@3.0.0/mf-app.js",
-    "demf-gui-root": "https://dtmui.avant.digital-enabler.eng.it/demf-dtm-gui.js"
+    "demf-gui-root": "https://mashups-mediren.eng.it/demf-dtm-gui.js"
   }
 }
