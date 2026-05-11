@@ -1,5 +1,6 @@
 {
-  "mf": "Digital Twin Relations Editor",
+  "name": "DTM Editor Summary",
+  "mf": "demf-dtm-editor-summary",
   "api": "https://dtm-mediren.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }

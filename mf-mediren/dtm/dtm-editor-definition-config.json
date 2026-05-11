@@ -1,5 +1,6 @@
 {
-  "mf": "Digital Twin Model Conversion",
+  "name": "DTM Editor Definition",
+  "mf": "demf-dtm-editor-definition",
   "api": "https://dtm-mediren.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
