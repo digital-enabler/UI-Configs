@@ -1,7 +1,7 @@
 {
   "name": "Sidebar",
   "mf": "demf-sidebar",
-  "api": "https://dme-api.digital-enabler.eng.it/api/v3",
+  "api": "https://dme-api.digital-enabler.eng.it/api",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/robraccu/storage/main/UI-Configs/mf-dev/common/services.json",
   "links": [
