@@ -1,5 +1,6 @@
 {
-  "mf": "Measures List",
-  "api": "https://kpim-middleware-api.regions4climate.digital-enabler.eng.it/api/v1",
+  "name": "Measures List",
+  "mf": "demf-kpim-measures-list",
+  "api": "https://kpim-middleware-api.avant.digital-enabler.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }

@@ -1,6 +1,7 @@
 {
-  "mf": "KPIM Editor",
-  "api": "https://kpim-middleware-api.regions4climate.digital-enabler.eng.it/api/v1",
+  "name": "KPIM Editor",
+  "mf": "demf-kpim-editor",
+  "api": "https://kpim-middleware-api.avant.digital-enabler.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "unitSymbols": {
     "METER":"m",
