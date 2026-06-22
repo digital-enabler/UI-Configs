@@ -1,5 +1,6 @@
 {
-  "mf": "RuleManager",
+  "name":"RuleManager",
+  "mf":"demf-rule-manager",
   "assets": [
     {
       "type": "flow",
