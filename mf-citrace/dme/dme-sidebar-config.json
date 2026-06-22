@@ -1,8 +1,9 @@
 {
-  "mf": "Sidebar",
+  "name": "Sidebar",
+  "mf": "demf-sidebar",
   "api": "https://dme-api.digital-enabler.eng.it/api",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
-  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-citrace/common/services.json",
+  "jsonTools": "https://raw.githubusercontent.com/robraccu/storage/main/UI-Configs/mf-dev/common/services.json",
   "links": [
     {
       "title": "labels.mashups",
@@ -20,7 +21,7 @@
       "link": "/flows"
     },
     {
-      "title": "Custom Operators",
+      "title": "labels.custom-operators",
       "icon": "mdi-puzzle",
       "link": "/custom-operators"
     }

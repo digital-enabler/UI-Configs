@@ -3,7 +3,7 @@
   "palette": {
     "primary": "#002F53",
     "secondary": "#C5004B",
-    "grey":	"#F3F4F6",
+    "grey": "#F3F4F6",
     "accent": "#A0B1BE",
     "error": "#F44336",
     "info": "#3d8ecc",
@@ -13,20 +13,6 @@
   "configs": {
     "common": {
       "footer": "/common/common-footer-config.json"
-    },
-    "dd": {
-      "auth": "/dd/dd-auth-config.json",
-      "eventHandler": "/dd/dd-event-handler-config.json",
-      "sidebar": "/dd/dd-sidebar-config.json",
-      "dataDiscovery": "/dd/dd-data-discovery-config.json"
-    },
-    "rm": {
-      "ruleManager": "/rm/rm-common-config.json",
-      "auth": "/rm/rm-auth-config.json",
-      "eventHandler": "/rm/rm-event-handler-config.json",
-      "sidebar": "/rm/rm-sidebar-config.json",
-      "rulesList": "/rm/rm-rules-list-config.json",
-      "ruleEditor": "/rm/rm-rule-editor-config.json"
     },
     "dme": {
       "auth": "/dme/dme-auth-config.json",
@@ -44,6 +30,14 @@
       "customOperatorDetails": "/dme/dme-custom-operator-details-config.json",
       "dataDiscovery": "/dme/dme-data-discovery-config.json"
     },
+    "rm": {
+      "ruleManager": "/rm/rm-common-config.json",
+      "auth": "/rm/rm-auth-config.json",
+      "eventHandler": "/rm/rm-event-handler-config.json",
+      "sidebar": "/rm/rm-sidebar-config.json",
+      "rulesList": "/rm/rm-rules-list-config.json",
+      "ruleEditor": "/rm/rm-rule-editor-config.json"
+    },
     "kpim": {
       "auth": "/kpim/kpim-auth-config.json",
       "eventHandler": "/kpim/kpim-event-handler-config.json",
@@ -52,7 +46,13 @@
       "kpimEditor": "/kpim/kpim-editor-config.json",
       "measuresList": "/kpim/kpim-measures-list-config.json",
       "kpimMeasure": "/kpim/kpim-measure-config.json",
-      "compare": "/kpim/kpim-compare-config.json"
+      "kpimCompare": "/kpim/kpim-compare-config.json"
+    },
+    "dd": {
+      "auth": "/dd/dd-auth-config.json",
+      "eventHandler": "/dd/dd-event-handler-config.json",
+      "sidebar": "/dd/dd-sidebar-config.json",
+      "dataDiscovery": "/dd/dd-data-discovery-config.json"
     },
     "dtm": {
       "auth": "/dtm/dtm-auth-config.json",
