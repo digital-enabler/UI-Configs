@@ -12,7 +12,7 @@
     "demf-kpim-editor-control-panel": "https://cdn.jsdelivr.net/npm/demf-kpim-editor-control-panel@3.1.0/mf-app.js",
     "demf-kpim-editor-definition": "https://cdn.jsdelivr.net/npm/demf-kpim-editor-definition@3.0.1/mf-app.js",
     "demf-kpim-editor-formula": "https://cdn.jsdelivr.net/npm/demf-kpim-editor-formula@3.0.1/mf-app.js",
-    "demf-kpim-editor-dashboard": "https://cdn.jsdelivr.net/npm/demf-kpim-editor-dashboard@3.0.1/mf-app.js",
+    "demf-kpim-editor-dashboard": "https://cdn.jsdelivr.net/npm/demf-kpim-editor-dashboard@3.0.2/mf-app.js",
     "demf-kpim-editor-summary": "https://cdn.jsdelivr.net/npm/demf-kpim-editor-summary@3.1.0/mf-app.js",
     "demf-kpim-measures-list": "https://cdn.jsdelivr.net/npm/demf-kpim-measures-list@3.1.0/mf-app.js",
     "demf-kpim-measure": "https://cdn.jsdelivr.net/npm/demf-kpim-measure@3.1.1/mf-app.js",
