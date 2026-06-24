@@ -8,7 +8,7 @@
     "demf-event-handler": "https://cdn.jsdelivr.net/npm/demf-event-handler@3.1.2/mf-app.js",
     "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.1.2/mf-app.js",
     "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.1.3/mf-app.js",
-    "demf-kpis-list": "https://cdn.jsdelivr.net/npm/demf-kpis-list@3.1.0/mf-app.js",
+    "demf-kpis-list": "https://cdn.jsdelivr.net/npm/demf-kpis-list@3.1.1/mf-app.js",
     "demf-kpim-editor-control-panel": "https://cdn.jsdelivr.net/npm/demf-kpim-editor-control-panel@3.1.0/mf-app.js",
     "demf-kpim-editor-definition": "https://cdn.jsdelivr.net/npm/demf-kpim-editor-definition@3.0.1/mf-app.js",
     "demf-kpim-editor-formula": "https://cdn.jsdelivr.net/npm/demf-kpim-editor-formula@3.0.1/mf-app.js",
