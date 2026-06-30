@@ -14,7 +14,7 @@
   "favorites": {
     "enabled": true
   },
-  "logo": "/rm/DataDiscovery.svg",
-  "miniLogo": "/de-mini.svg",
+  "logo": "/dd/DataDiscovery.svg",
+  "miniLogo": "/commons/de-mini.svg",
   "showServicesMenu": false
 }

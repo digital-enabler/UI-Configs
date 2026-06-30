@@ -24,6 +24,6 @@
     "enabled": false
   },
   "logo": "/kpim/KpiManager.svg",
-  "miniLogo": "/de-mini.svg",
+  "miniLogo": "/commons/de-mini.svg",
   "showServicesMenu": false
 }
