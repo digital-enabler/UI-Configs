@@ -33,7 +33,7 @@
   "keycloak": {
     "enabled": false
   },
-  "logo": "/DataMashupEditor.svg",
-  "miniLogo": "/de-mini.svg",
+  "logo": "/dme/DataMashupEditor.svg",
+  "miniLogo": "/commons/de-mini.svg",
   "showServicesMenu": false
 }
