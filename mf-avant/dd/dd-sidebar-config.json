@@ -12,7 +12,7 @@
     }
   ],
   "favorites": {
-    "enabled": true
+    "enabled": false
   },
   "logo": "/dd/DataDiscovery.svg",
   "miniLogo": "/commons/de-mini.svg",
