@@ -1,0 +1,5 @@
+{
+  "name": "KPIM Compare",
+  "mf": "demf-kpim-compare",
+  "api": "https://kpim-middleware-api.de.eng.it/api/v1"
+}

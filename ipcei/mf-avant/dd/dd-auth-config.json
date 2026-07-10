@@ -1,0 +1,5 @@
+{
+   "name": "Auth",
+   "mf": "demf-auth",
+   "api": "https://discovery-api.avant.digital-enabler.eng.it/api"
+}

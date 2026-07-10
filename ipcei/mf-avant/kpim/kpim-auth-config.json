@@ -1,0 +1,10 @@
+{
+   "name":"Auth",
+   "mf": "demf-auth",
+   "api":"https://kpim-middleware-api.de.eng.it/api/v1",
+   "keycloak":{
+      "url":"https://idm.digital-enabler.eng.it/auth",
+      "clientId":"kpi-manager-app",
+      "enabled":false
+   }
+}
