@@ -1,9 +1,9 @@
 {
   "name": "Sidebar",
   "mf": "demf-sidebar",
-  "api": "https://dme-api.avant.digital-enabler.eng.it/api",
+  "api": "https://dme-api.de.eng.it/api",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
-  "jsonTools": "https://raw.githubusercontent.com/robraccu/storage/main/UI-Configs/mf-dev/common/services.json",
+  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/storage/main/UI-Configs/ipcei/mf-avant/common/services.json",
   "links": [
     {
       "title": "labels.mashups",

@@ -18,6 +18,6 @@
     "demf-custom-operators": "https://cdn.jsdelivr.net/npm/demf-custom-operators@4.1.0/mf-app.js",
     "demf-custom-operator-details": "https://cdn.jsdelivr.net/npm/demf-custom-operator-details@4.1.0/mf-app.js",
     "demf-data-discovery": "https://cdn.jsdelivr.net/npm/demf-data-discovery@3.1.4/mf-app.js",
-    "demf-gui-root": "https://mashups.avant.digital-enabler.eng.it/gui-root.js"
+    "demf-gui-root": "https://mashups.de.eng.it/gui-root.js"
   }
 }

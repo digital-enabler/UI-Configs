@@ -14,6 +14,6 @@
     "demf-rule-editor-conditions": "https://cdn.jsdelivr.net/npm/demf-rule-editor-conditions@3.0.1/mf-app.js",
     "demf-rule-editor-actions": "https://cdn.jsdelivr.net/npm/demf-rule-editor-actions@3.0.2/mf-app.js",
     "demf-rule-editor-summary": "https://cdn.jsdelivr.net/npm/demf-rule-editor-summary@3.0.2/mf-app.js",
-    "demf-gui-root": "https://rules.avant.digital-enabler.eng.it/demf-rm-gui.js"
+    "demf-gui-root": "https://rules.de.eng.it/demf-rm-gui.js"
   }
 }
