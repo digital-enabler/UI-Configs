@@ -1,7 +1,7 @@
 {
    "name": "Auth",
    "mf": "demf-auth",
-   "api": "https://dme-api.avant.digital-enabler.eng.it/api",
+   "api": "https://dme-api.de.eng.it/api",
    "keycloak": {
       "url": "https://localhost:8787/auth",
       "clientId": "dme-v2-app",
