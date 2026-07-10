@@ -1,0 +1,29 @@
+{
+  "name": "Sidebar",
+  "mf": "demf-sidebar",
+  "api": "https://kpim-middleware-api.de.eng.it/api/v1",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/ipcei/mf-avant/common/services.json",
+  "links": [
+    {
+      "title": "labels.kpis",
+      "icon": "mdi-gauge",
+      "link": "/kpis"
+    },
+    {
+      "title": "labels.measures",
+      "icon": "mdi-ruler",
+      "link": "/measures"
+    }
+  ],
+  "favorites": {
+    "enabled": false,
+    "uri": ""
+  },
+  "keycloak": {
+    "enabled": false
+  },
+  "logo": "/kpim/KpiManager.svg",
+  "miniLogo": "/commons/de-mini.svg",
+  "showServicesMenu": false
+}

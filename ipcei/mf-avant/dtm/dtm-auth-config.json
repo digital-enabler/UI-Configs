@@ -1,0 +1,5 @@
+{
+  "name": "Auth",
+  "mf": "demf-auth",
+  "api": "https://pem-api.avant.digital-enabler.eng.it/api/v1"
+}
