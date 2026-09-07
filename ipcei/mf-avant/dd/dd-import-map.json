@@ -1,14 +1,15 @@
 {
   "imports": {
     "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.3/lib/es2015/esm/single-spa.min.js",
-    "vue": "https://cdn.jsdelivr.net/npm/vue@3.5.33/dist/vue.global.min.js",
-    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@5.0.6/dist/vue-router.global.min.js",
-    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@3.12.11/dist/vuetify.min.js",
-    "demf-auth": "https://cdn.jsdelivr.net/npm/demf-auth@3.1.6/mf-app.js",
-    "demf-event-handler": "https://cdn.jsdelivr.net/npm/demf-event-handler@3.1.6/mf-app.js",
-    "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.1.5/mf-app.js",
-    "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.1.6/mf-app.js",
-    "demf-data-discovery": "https://cdn.jsdelivr.net/npm/demf-data-discovery@3.1.6/mf-app.js",
+    "single-spa-layout": "https://cdn.jsdelivr.net/npm/single-spa-layout@3.0.0/dist/esm/single-spa-layout.min.js",
+    "vue": "https://cdn.jsdelivr.net/npm/vue@3.5.42/dist/vue.global.min.js",
+    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@5.3.1/dist/vue-router.global.min.js",
+    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@3.13.3/dist/vuetify.min.js",
+    "demf-auth": "https://cdn.jsdelivr.net/npm/demf-auth@3.1.8/mf-app.js",
+    "demf-event-handler": "https://cdn.jsdelivr.net/npm/demf-event-handler@3.1.8/mf-app.js",
+    "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.2.2/mf-app.js",
+    "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.1.8/mf-app.js",
+    "demf-data-discovery": "https://cdn.jsdelivr.net/npm/demf-data-discovery@3.1.8/mf-app.js",
     "demf-gui-root": "https://discovery.de.eng.it/gui-root.js"
   }
 }
