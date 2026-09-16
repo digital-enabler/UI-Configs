@@ -43,6 +43,11 @@
       "type": "telegram",
       "name": "Telegram",
       "icon": "mdi-send-circle"
+    },
+    {
+      "type": "sse",
+      "name": "SSE",
+      "icon": "mdi-access-point"
     }
   ]
 }
