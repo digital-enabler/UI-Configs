@@ -1,7 +1,7 @@
 {
    "mf": "Sidebar",
    "api": "https://dme-api.digital-enabler.eng.it/api",
-   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+   "storageImgs": "https://imgs.web.garage.digital-enabler.eng.it",
    "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-evita/common/services.json",
    "links": [
       {
