@@ -2,5 +2,5 @@
   "name": "Rules List",
   "mf": "demf-rules-list",
   "api": "https://rules-mediren.eng.it/api/v1",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+  "storageImgs": "https://imgs.web.garage.digital-enabler.eng.it"
 }
