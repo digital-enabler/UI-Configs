@@ -16,11 +16,6 @@
       "type": "ngsi-ld",
       "name": "NGSI ENTITY",
       "icon": "mdi-vector-circle"
-    },
-    {
-      "type": "calendar-event",
-      "name": "Google Calendar",
-      "icon": "mdi-calendar-month"
     }
   ],
   "actions": [
