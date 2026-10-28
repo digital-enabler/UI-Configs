@@ -7,7 +7,7 @@
     "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@3.13.6/dist/vuetify.min.js",
     "demf-auth": "https://cdn.jsdelivr.net/npm/demf-auth@3.1.9/mf-app.js",
     "demf-event-handler": "https://cdn.jsdelivr.net/npm/demf-event-handler@3.1.9/mf-app.js",
-    "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.3.0/mf-app.js",
+    "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.4.0/mf-app.js",
     "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.1.9/mf-app.js",
     "demf-csrf-consumer-parcel": "https://cdn.jsdelivr.net/npm/demf-csrf-consumer-parcel@3.0.0/mf-app.js",
     "demf-kpis-list": "https://cdn.jsdelivr.net/npm/demf-kpis-list@3.4.2/mf-app.js",
