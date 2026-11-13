@@ -9,7 +9,7 @@
     "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.2.4/mf-app.js",
     "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.1.6/mf-app.js",
     "demf-dtm-models-list": "https://cdn.jsdelivr.net/npm/demf-dtm-models-list@3.0.1/mf-app.js",
-    "demf-dtm-editor-definition": "https://cdn.jsdelivr.net/npm/demf-dtm-editor-definition@3.0.1/mf-app.js",
+    "demf-dtm-editor-definition": "https://cdn.jsdelivr.net/npm/demf-dtm-editor-definition@3.0.2/mf-app.js",
     "demf-dtm-editor-data-binding": "https://cdn.jsdelivr.net/npm/demf-dtm-editor-data-binding@3.0.1/mf-app.js",
     "demf-dtm-editor-conversion": "https://cdn.jsdelivr.net/npm/demf-dtm-editor-conversion@3.0.1/mf-app.js",
     "demf-dtm-editor-summary": "https://cdn.jsdelivr.net/npm/demf-dtm-editor-summary@3.0.1/mf-app.js",
